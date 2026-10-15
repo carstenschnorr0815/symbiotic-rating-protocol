@@ -1,0 +1,29 @@
+{
+  "protocol_version": "0.2-draft",
+  "assessment_id": "fictional-watershed-001",
+  "fictional": true,
+  "scope": "Design review of advisory-only reservoir scheduling; no field intervention.",
+  "authority": "Fictional watershed authority; actual powers and permissions are not established.",
+  "period": {"start": "2026-10-01", "end": "2026-10-15"},
+  "participants": [
+    {"id": "households", "kind": "human_community", "description": "Water users and downstream residents", "representation": "A consultation process would be required; no real mandate exists.", "consent": "unknown", "uncertainty": "Distribution and participation remain untested."},
+    {"id": "aquatic", "kind": "nonhuman_population", "description": "Affected aquatic populations", "representation": "Independent ecological stewardship proposed, not appointed.", "consent": "unknown", "uncertainty": "Preferences and seasonal effects not established."},
+    {"id": "forest", "kind": "ecological_function", "description": "Forest regeneration and watershed functions", "representation": "Ecological review proposed; no unified forest will is asserted.", "consent": "not_applicable", "uncertainty": "Function protection is separate from unresolved cognition or experience."}
+  ],
+  "alternatives": ["Continue baseline operation", "Repair conventional controls", "Shadow advisory model with no control authority"],
+  "evidence": [
+    {"id": "design-1", "source": "Fictional design memo in watershed-pilot.md", "access": "fictional", "method": "Review proposed architecture, not field performance", "observation": "Advisory-only design retains human operation and proposes manual fallback.", "limitations": "No measured ecological outcomes, consultation, or fallback test."}
+  ],
+  "laws": {
+    "I": {"status": "unknown", "rationale": "Seasonal and cumulative impacts need observation.", "evidence_refs": ["design-1"]},
+    "II": {"status": "concern", "rationale": "Representation, permissions, and continuity guarantees remain unresolved.", "evidence_refs": ["design-1"]},
+    "III": {"status": "unknown", "rationale": "Portability and withdrawal need independent tests.", "evidence_refs": ["design-1"]},
+    "IV": {"status": "supported", "rationale": "This design record expressly separates observations, unknown interests, and consent; support is limited to its documentation.", "evidence_refs": ["design-1"]}
+  },
+  "review": {
+    "reviewer": "Fictional design reviewer, not an appointed authority",
+    "interests": "Illustrative authoring role; no independent real review has occurred.",
+    "unresolved_objections": ["No real representative mandates", "No seasonal baseline or committed budget"],
+    "next_review": "2027-01-15"
+  }
+}
