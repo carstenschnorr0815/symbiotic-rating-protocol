@@ -57,3 +57,7 @@ Time-limited emergency repairs may restore prior behavior or limit an immediate 
 ## Proposed bicameral adoption and adaptive criteria (0.7)
 
 The proposed constitutional process uses an Intellect Council majority and qualified Tribal Council confirmation. A qualified reasoned referral with concrete requirements forces renewed consideration, not automatic agreement or a unilateral replacement. See [POLITICAL_PROCESS.md](POLITICAL_PROCESS.md), section 3. Its thresholds, eligibility, aggregation, appointments, mediation and enforcement require prior adoption; the existing repository quorum does not constitute them. AM-P007/P008 remain proposals. Criteria affecting political participation require separate normative review; physical measurement and contract execution cannot ratify them. Protected-scope changes still require foundational revision.
+
+## Internal adoption is not a transfer of public powers
+
+Adoption of Article 12 or an internal constitutional decision cannot create jurisdiction over nonmembers, confer state-court status, or transfer external public competences. Those require separate competent democratic/legal authorization. In particular, maintainer publication is neither collective accession nor such external authorization. Any change to protected scope or principles remains subject to foundational-revision safeguards; no state has adopted this repository by implication.

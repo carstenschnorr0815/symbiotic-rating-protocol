@@ -33,3 +33,7 @@ Before implementation adopt a threat model, chain/validator governance and resou
 ## Internal deliberation and representative safeguards
 
 The proposed [mixed internal model](POLITICAL_PROCESS.md#2a-internal-democratic-organization) requires mandates/terms, member initiatives, deliberation records, relevant conflict disclosures and reviewable recall/succession. A contract's vote tally cannot establish informed deliberation, voluntary choice or absence of improper influence. Preserve private ballots where adopted, safe complaint/evidence access and continuity during disputed recall. Optional sortition requires auditable eligibility/randomness and protection against captured selection; no selection service or voting protocol is implemented here.
+
+## Transitional legal authority and accession
+
+[Article 12](CONSTITUTION.md#article-12-universal-protection-limited-jurisdiction-and-public-enforcement) limits initial operation to applicable law and actually authorized internal powers. A ledger entry is not proof of voluntary accession or state recognition; operator-enforced context does not resolve artificial consent. Internal court/administrative keys can affect only duly entrusted powers and must not bypass mandatory public remedies. Execution cannot create jurisdiction over nonmembers, and an internal vote cannot transfer state competences. External public enforcement needs its own lawful institutional route. No such integration, filing or action is implemented or authorized here.

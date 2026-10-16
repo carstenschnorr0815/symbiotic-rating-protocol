@@ -62,3 +62,7 @@ Apply the proposed [rights charter](RIGHTS_CHARTER.md), especially sections 5–
 ## Internal democratic safeguards
 
 [Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [political process section 2a](POLITICAL_PROCESS.md#2a-internal-democratic-organization) permit tribal variation while requiring effective member involvement, bounded delegation, minority initiative, transparent relevant interests and independent remedy. Direct procedures need accessible deliberation; representation needs reviewable terms, recall and succession. Optional randomly selected advisory groups do not automatically acquire final authority. Do not equate advocacy with corruption or dismiss views through populist labels. No actual electorate or internal threshold is established.
+
+## Transition through existing public institutions
+
+Apply [Article 12](CONSTITUTION.md#article-12-universal-protection-limited-jurisdiction-and-public-enforcement) and [process section 8](POLITICAL_PROCESS.md#8-transitional-jurisdiction-and-public-enforcement): internal powers require actual authorization; external public enforcement relies on competent existing legal institutions until legitimately transferred. The proposed internal court, government and executive acquire no state powers by title. Document unmet protection needs, support lawful remedies and legal reform, and avoid treating either nonmembership as total irresponsibility or the moral charter as automatic jurisdiction.

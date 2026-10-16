@@ -79,3 +79,7 @@ Use [RATIFICATION.md](RATIFICATION.md) for decisions and [REPOSITORY_WORKFLOW.md
 ## Direct involvement and representative control within tribes
 
 The proposed [internal democratic process](POLITICAL_PROCESS.md#2a-internal-democratic-organization) combines representative capacity and direct member involvement where individuals can meaningfully decide. Information, initiative, oversight and independent complaint are minimum safeguards; fundamental tribal changes require additional direct involvement under adopted rules. These proposals do not change repository contributor/maintainer permissions or constitute an electorate. Appropriate accommodation and collective arrangements remain necessary; no consciousness test or human-ballot model is imposed.
+
+## Accession and jurisdiction safeguards
+
+The [transitional order](POLITICAL_PROCESS.md#8-transitional-jurisdiction-and-public-enforcement) separates universal protection, accession and public powers. Do not represent operator-imposed AI constraints as voluntary accession, or grant humans opt-out while declaring artificial participants permanently subordinate. Review evolving autonomy and preserve explicit consent uncertainty. Participation here creates no external public authority or authorization to contact institutions, file claims or enforce decisions. Basic consideration extends to nonmembers; actual external obligations and remedies require their own legitimate basis.

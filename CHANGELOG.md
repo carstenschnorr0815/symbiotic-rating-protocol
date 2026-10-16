@@ -2,6 +2,8 @@
 
 ## 0.7-draft — 16 October 2026
 
+- Add Article 12 and process section 8 separating universal moral protection, accession and actual public jurisdiction. Keep initial enforcement within entrusted internal authority and competent existing legislative/judicial/executive routes; no automatic state-court status, private coercion or external transfer through a vote or ledger. Preserve symmetric human/artificial accession safeguards, review evolving autonomy and document protection gaps for lawful support and legal development. Refine AM-P007 and related framework guidance.
+
 - Refine Article 2, the rights charter and AM-P001 with mixed internal democracy: bounded representatives, direct involvement in fundamental changes, minority initiatives, reviewable recall, disclosed relevant interests/funding, accessible deliberation and independent rights control. Preserve tribal variation and appropriate collective arrangements; optional sortition creates no automatic final authority. No current electorate or voting implementation is established.
 
 - Specify issue-scoped trusteeship, relevance review, identity/opt-in separation, coalition freedom and fragmentation-neutral influence across votes, quorum, veto and appointment rights.

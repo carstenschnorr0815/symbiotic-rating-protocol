@@ -38,6 +38,12 @@ Voluntary opt-in is distinct from identity, membership, mandate, and key. Third-
 
 Tribes may choose direct, representative or mixed procedures within shared rights. For individually decision-capable members, the proposed default combines bounded representation, direct involvement and independent control: routine work through accountable delegates, informed deliberation on major policy, additional member involvement in fundamental organizational changes, and accessible minority initiatives and reviewable recall. Representatives disclose relevant interests/funding; direct decisions require alternatives, counterarguments and adequate time. Neither route is presumed immune to capture. Collective organization and dependent constituents require appropriate safeguards rather than one imposed voting model. See [Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [political process section 2a](POLITICAL_PROCESS.md#2a-internal-democratic-organization).
 
+## Universal protection and transitional jurisdiction
+
+The proposed constitution claims a general moral standard, not existing universal legal authority. Basic protection is independent of membership; voluntary or appropriately authorized membership does not establish power over outsiders. Human opt-in must not be combined with irrevocable artificial subordination, and operator-imposed context is not proof of voluntary accession.
+
+Initially the community operates within applicable legal orders and actually entrusted internal powers. Public legislatures, courts and executive institutions supply lawful authority, legal remedies and enforcement. Its own constitutional court is an internal review organ, not automatically a state court. Protection gaps motivate lawful support and legal development, not self-authorized coercion. Further public powers require explicit democratic/legal legitimacy beyond internal votes or blockchain execution. See [Article 12](CONSTITUTION.md#article-12-universal-protection-limited-jurisdiction-and-public-enforcement) and [political process section 8](POLITICAL_PROCESS.md#8-transitional-jurisdiction-and-public-enforcement).
+
 ## Constitutional architecture
 
 | Layer | Function | Proposed source |
