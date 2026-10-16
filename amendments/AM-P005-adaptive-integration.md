@@ -17,3 +17,7 @@ Changes to principles or protected scope require a separately adopted foundation
 Specify admission criteria, provisional rights, competence of review bodies, conflict mediation, and stronger revision safeguards before activation. Compare entrenchment, exclusion, strategic creation of tribes/instances, and failure to respond to new evidence. Neither final representation weights nor an absolute immutable core is declared settled.
 
 Review on new forms, serious interpretation failures, or evidence that provisional status has become permanent exclusion. This proposal creates no actual assembly or admission authority.
+
+## Rights-compatible admission
+
+Under proposed [AM-P006](AM-P006-rights-and-recognition.md), assess tribal recognition through verifiable continuity, mandates, current control, accountability, shared-rights compatibility, and supported task capacity. Give reasons, response, independent appeal, review dates, and a route to contest inherited criteria. Basic protection is not conditional on recognition; recognition is not a voting-weight decision. Distinguish internal eligibility from common political authority and permit reassessment after genuine changes of control. AM-P005 alone does not ratify the proposed charter.

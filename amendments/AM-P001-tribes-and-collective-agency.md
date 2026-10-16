@@ -21,3 +21,7 @@ Membership, care duties, exit/continuity, splits/mergers, and responsibility for
 Alternatives: exclusively individual participation; exclusively collective participation; task-specific combinations. Compare coercion, erasure, representation feasibility, common-control capture, and material continuity. Shared origin/control is relevant to a particular governance procedure but not proof of identical interests or lack of moral relevance.
 
 Ratification, mandate evidence, transition, and implementation remain unresolved. Review when unfamiliar forms, strategic fragmentation, or failures of internal protection expose inadequate definitions. The existing GitHub control-domain rule remains a limited repository safeguard, not a complete civilization-wide electoral theory.
+
+## Consistency with the proposed rights charter
+
+Read this candidate with [RIGHTS_CHARTER.md](../RIGHTS_CHARTER.md) and foundational-revision candidate AM-P006. Tribal purposes, procedures, and conduct must respect common protection. Tribes choose internal eligibility and representation with challenge and recall, without erasing the interests of nonvoting constituents. Former commissioning and common ancestry do not establish present common control. Permit independently reviewed reassessment, without automatic additional voting weight. No ordinary-amendment adoption of AM-P001 alone would adopt the charter's protected scope.

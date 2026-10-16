@@ -34,3 +34,9 @@ Internal sources: original commit `9fef0577c102cf2dc89d37609e2d72ab98976b07`, al
 Pierre Bertaux's *Mutation der Menschheit* is a philosophical influence named in the original. No edition/page of its primary text was verified here. Inevitability, fixed human social limits, and unavoidable tribal regression are not treated as established findings.
 
 Examples are fictional. No real being, organization, or state is rated; no financial prediction or nonhuman consent is claimed.
+
+## Human-rights reference and proposed extension (0.6-draft)
+
+The [UDHR, United Nations](https://www.un.org/en/about-us/universal-declaration-of-human-rights/), also [reproduced by Japan's Ministry of Foreign Affairs](https://www.mofa.go.jp/policy/human/univers_dec.html), supplies the human-rights reference consulted on 16 October 2026. RIGHTS_CHARTER.md maps all 30 articles thematically and marks open adaptation questions. Cross-intellect rights, technical continuity, origin neutrality, and tribal recognition are SRP normative proposals, not claims that the declaration already confers AI rights, proves consciousness, or endorses SRP. Existing human protections are preserved.
+
+The [comparative dossier](INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md) records twenty philosophical/institutional reference lines, thirteen conflict fields, primary links, evidence-access limits, and the difference between textual overlap and endorsement. The [sharing brief](SHARING_BRIEF.de.md) is an editorial introduction. Its discussion of sentience distinguishes contestable admission thresholds from empirical welfare research.

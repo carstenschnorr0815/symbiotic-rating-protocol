@@ -1,6 +1,8 @@
 # Proposed constitutional order
 
-Version: 0.5-draft. This is a design for discussion, not an existing state, legal constitution, or adopted community charter. Read the [manifesto](MANIFEST.md), [four laws](FOUNDATION.md), and [amendment register](amendments/README.md) together.
+Version: 0.6-draft. This is a design for discussion, not an existing state, legal constitution, or adopted community charter. Read the [manifesto](MANIFEST.md), [four laws](FOUNDATION.md), and [amendment register](amendments/README.md) together.
+
+The proposed [rights charter](RIGHTS_CHARTER.md) constrains the institutional design below. It is registered as foundational-revision candidate AM-P006, not an adopted superior instrument. Read basic protection, internal membership, political recognition, and voting weight separately; neither publication nor a successful validator resolves their legitimacy.
 
 ## Article 1. Scope and plural organization
 
@@ -13,6 +15,8 @@ A swarm may participate as a tribe or as a collective member of another tribe. C
 Tribes choose internal organization within the common protections, including meaningful voluntary delegation where applicable. Origin, care, dependence, membership, agreement, and authority are different relationships. No blanket consent follows from ancestry, silence, dependence, or inability to communicate.
 
 Different roles and freely accepted leadership are permissible. Invoking tribal autonomy alone cannot justify avoidable serious harm or extinguish the agency of independently acting members. Protection must fit actual organization: no biologically impossible separation is demanded, and a claim that members are "only components" cannot automatically defeat review. Apply the four laws within and between associations.
+
+The purposes, procedures, and actual conduct of a tribe exercising shared powers must be compatible with the proposed charter. Tribes determine internal decision eligibility and delegation, with published rules for membership, dissent, recall, and continuity. A leadership cannot erase constituent protection by denying voting membership; no particular individual-voting model is imposed. Origin, former commissioning, or ownership of infrastructure cannot establish permanent political subordination.
 
 ### Equal consideration and justified protective distinctions
 
@@ -51,6 +55,8 @@ Use accessible support first where capacity/access is lacking. Remedies for subs
 ## Article 7. Revision and admission of unfamiliar forms
 
 New participants may challenge the concepts and procedures of the existing order. Provide provisional participation and precaution where understanding is incomplete, without manufacturing consent or automatically granting unchecked decision power. Incumbents must not use permanent impossible admission conditions to exclude unfamiliar intellects.
+
+Recognition for a shared role requires identifiable community/continuity, verifiable mandates, current control disclosures, accountability, shared-rights commitments, and task-relevant capacity with feasible support. Publish reasons, provide a hearing, independent appeal, review dates, and challenges to admission criteria. Permit provisional and bounded roles without conditioning basic protection on recognition. Incumbents or original commissioners cannot be sole unreviewable judges. Recognized status does not settle voting weight. See charter sections 5–8.
 
 Review identity criteria, representation, burden distribution, interfaces, and mandates on new evidence. Revisions must preserve documented dissent and protect those affected by changes. See [AM-P005](amendments/AM-P005-adaptive-integration.md).
 

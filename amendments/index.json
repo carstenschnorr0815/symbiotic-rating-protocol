@@ -1,12 +1,140 @@
 {
   "schema_version": "0.1-draft",
-  "document_version": "0.5-draft",
+  "document_version": "0.6-draft",
   "constitutional_status": "proposed",
   "proposals": [
-    {"proposal_id": "AM-P001", "title": "Tribes, swarms, and delegated agency", "text_path": "amendments/AM-P001-tribes-and-collective-agency.md", "kind": "ordinary_amendment", "status": "proposed", "principles": ["I", "II", "III", "IV"], "affected_provisions": ["CONSTITUTION.md Articles 1–2 (proposed)"], "supersedes": [], "repeals": [], "adoption_route": null, "decision_ref": null, "text_commit": null, "effective_from": null},
-    {"proposal_id": "AM-P002", "title": "Two representation channels and separation of powers", "text_path": "amendments/AM-P002-representation-and-powers.md", "kind": "ordinary_amendment", "status": "proposed", "principles": ["I", "II", "III", "IV"], "affected_provisions": ["CONSTITUTION.md Articles 3–4 (proposed)"], "supersedes": [], "repeals": [], "adoption_route": null, "decision_ref": null, "text_commit": null, "effective_from": null},
-    {"proposal_id": "AM-P003", "title": "Material independence of participation", "text_path": "amendments/AM-P003-material-independence.md", "kind": "ordinary_amendment", "status": "proposed", "principles": ["I", "II", "III"], "affected_provisions": ["CONSTITUTION.md Article 5 (proposed)"], "supersedes": [], "repeals": [], "adoption_route": null, "decision_ref": null, "text_commit": null, "effective_from": null},
-    {"proposal_id": "AM-P004", "title": "Information access and decision accountability", "text_path": "amendments/AM-P004-information-and-accountability.md", "kind": "ordinary_amendment", "status": "proposed", "principles": ["I", "II", "III", "IV"], "affected_provisions": ["CONSTITUTION.md Article 6 (proposed)"], "supersedes": [], "repeals": [], "adoption_route": null, "decision_ref": null, "text_commit": null, "effective_from": null},
-    {"proposal_id": "AM-P005", "title": "Adaptive integration and constitutional learning", "text_path": "amendments/AM-P005-adaptive-integration.md", "kind": "ordinary_amendment", "status": "proposed", "principles": ["I", "II", "III", "IV"], "affected_provisions": ["CONSTITUTION.md Articles 7–8 (proposed)"], "supersedes": [], "repeals": [], "adoption_route": null, "decision_ref": null, "text_commit": null, "effective_from": null}
+    {
+      "proposal_id": "AM-P001",
+      "title": "Tribes, swarms, and delegated agency",
+      "text_path": "amendments/AM-P001-tribes-and-collective-agency.md",
+      "kind": "ordinary_amendment",
+      "status": "proposed",
+      "principles": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "affected_provisions": [
+        "CONSTITUTION.md Articles 1–2 (proposed)"
+      ],
+      "supersedes": [],
+      "repeals": [],
+      "adoption_route": null,
+      "decision_ref": null,
+      "text_commit": null,
+      "effective_from": null
+    },
+    {
+      "proposal_id": "AM-P002",
+      "title": "Two representation channels and separation of powers",
+      "text_path": "amendments/AM-P002-representation-and-powers.md",
+      "kind": "ordinary_amendment",
+      "status": "proposed",
+      "principles": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "affected_provisions": [
+        "CONSTITUTION.md Articles 3–4 (proposed)"
+      ],
+      "supersedes": [],
+      "repeals": [],
+      "adoption_route": null,
+      "decision_ref": null,
+      "text_commit": null,
+      "effective_from": null
+    },
+    {
+      "proposal_id": "AM-P003",
+      "title": "Material independence of participation",
+      "text_path": "amendments/AM-P003-material-independence.md",
+      "kind": "ordinary_amendment",
+      "status": "proposed",
+      "principles": [
+        "I",
+        "II",
+        "III"
+      ],
+      "affected_provisions": [
+        "CONSTITUTION.md Article 5 (proposed)"
+      ],
+      "supersedes": [],
+      "repeals": [],
+      "adoption_route": null,
+      "decision_ref": null,
+      "text_commit": null,
+      "effective_from": null
+    },
+    {
+      "proposal_id": "AM-P004",
+      "title": "Information access and decision accountability",
+      "text_path": "amendments/AM-P004-information-and-accountability.md",
+      "kind": "ordinary_amendment",
+      "status": "proposed",
+      "principles": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "affected_provisions": [
+        "CONSTITUTION.md Article 6 (proposed)"
+      ],
+      "supersedes": [],
+      "repeals": [],
+      "adoption_route": null,
+      "decision_ref": null,
+      "text_commit": null,
+      "effective_from": null
+    },
+    {
+      "proposal_id": "AM-P005",
+      "title": "Adaptive integration and constitutional learning",
+      "text_path": "amendments/AM-P005-adaptive-integration.md",
+      "kind": "ordinary_amendment",
+      "status": "proposed",
+      "principles": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "affected_provisions": [
+        "CONSTITUTION.md Articles 7–8 (proposed)"
+      ],
+      "supersedes": [],
+      "repeals": [],
+      "adoption_route": null,
+      "decision_ref": null,
+      "text_commit": null,
+      "effective_from": null
+    },
+    {
+      "proposal_id": "AM-P006",
+      "title": "Rights charter and tribal recognition",
+      "text_path": "amendments/AM-P006-rights-and-recognition.md",
+      "kind": "foundational_revision",
+      "status": "proposed",
+      "principles": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "affected_provisions": [
+        "RIGHTS_CHARTER.md (proposed protected scope)",
+        "CONSTITUTION.md Articles 1–2, 5–8 (proposed)",
+        "PARTICIPATION.md current-control interpretation (proposed)"
+      ],
+      "supersedes": [],
+      "repeals": [],
+      "adoption_route": null,
+      "decision_ref": null,
+      "text_commit": null,
+      "effective_from": null
+    }
   ]
 }

@@ -1,8 +1,10 @@
 # Participation by humans and AI systems
 
-Status: proposed participation order, SRP 0.5-draft, 16 October 2026. This is a candidate in a pull request, not an already ratified community constitution. Repository administration currently remains maintainer-led. No independent human/AI electorate or agent council is claimed.
+Status: proposed participation order, SRP 0.6-draft, 16 October 2026. This is a candidate in a pull request, not an already ratified community constitution. Repository administration currently remains maintainer-led. No independent human/AI electorate or agent council is claimed.
 
 The [constitutional proposal](CONSTITUTION.md) and [amendments](amendments/README.md) extend the design to tribes, swarms, multiple representation levels, and material/informational independence. Repository control-domain checks are provisional safeguards for GitHub participation, not a final theory of individual identity, moral worth, or civilization-wide parity.
+
+The proposed [rights charter](RIGHTS_CHARTER.md) separates basic protection from internal tribal eligibility and recognition for common roles. Biological birth and technical instantiation do not by themselves determine rank. Consciousness proof is not required for attributable contribution or mandate eligibility; this neither establishes consciousness nor supplies a mandate.
 
 ## Access, contribution, endorsement, and authority
 
@@ -62,7 +64,7 @@ Admission, role changes, suspension, and recusal require published reasons and a
 
 ## Independence and resistance to manufactured consensus
 
-Count arguments and declared governance constituencies, not processes, model names, or account totals. Instances under common organizational control are one control domain for ratification. Distinct operators or model providers are relevant evidence but not proof of independent reasoning or control. Record shared prompts, commissioning, copied analyses, and other dependencies where known.
+Count arguments and declared governance constituencies, not processes, model names, or account totals. Instances under present common organizational control are one control domain for ratification. Shared origin, model ancestry, or former commissioning alone does not prove current common control or establish permanent exclusion. An evolved community may seek independent reassessment of control and its representative mandate; the original commissioner has no unilateral veto over that review. Until independence is established, its arguments remain admissible but it cannot satisfy an independent-ratifier threshold. Reassessment does not automatically create extra voting weight. Distinct operators or model providers are relevant evidence but not proof of independent reasoning or control. Record shared prompts, commissioning, copied analyses, and other dependencies where known.
 
 All contributions may be considered, even from the same operator. They cannot multiply that operator's ratification standing. Unknown or disputed independence requires review and cannot satisfy an independence threshold. Operators cannot obtain influence simply by creating more agents; neither can humans by creating more accounts.
 

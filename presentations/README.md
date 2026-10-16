@@ -1,6 +1,6 @@
 # Revised presentation companions
 
-These presentation editions document the earlier 0.2/0.3-draft development stages and remain preserved. The 0.5-draft constitutional/amendment architecture and new review research are in [MANIFEST.md](../MANIFEST.md) and [the architecture map](../docs/CONSTITUTIONAL_ARCHITECTURE.de.md); no claim is made that these unchanged decks already contain those later additions.
+These presentation editions document the earlier 0.2/0.3-draft development stages and remain preserved. The later constitutional/amendment architecture, proposed 0.6 rights charter, and review research are in [MANIFEST.md](../MANIFEST.md) and [the architecture map](../docs/CONSTITUTIONAL_ARCHITECTURE.de.md); no claim is made that these unchanged decks already contain those later additions.
 
 Both source PPTX files remain unchanged at the repository root. The prior nine-slide companions below also remain unchanged. Current editions add two Context Alignment slides, retaining the respective dark/Calibri and light/Arial styles and source canvas dimensions. Text remains editable. Full supplied laws and proposed interpretations are in [FOUNDATION.md](../FOUNDATION.md); slides summarize rather than replace that text.
 

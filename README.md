@@ -2,7 +2,7 @@
 
 ### A foundation for civilization across species, intelligences, and living systems
 
-**Status: proposed foundation, 0.5-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
+**Status: proposed foundation, 0.6-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
 
 Start with the human-readable [Manifesto of Cognitive Coexistence](MANIFEST.md). It separates foundational principles, a proposed constitutional order, explicit amendment candidates, and implementation protocols. **No founding text or amendment has been community-ratified.** The [machine-readable project manifest](project-manifest.json) is a navigation aid, not the constitution.
 
@@ -42,6 +42,7 @@ Compatible representations can support a functional joint system without requiri
 | Layer | Role | Document |
 | --- | --- | --- |
 | Philosophy | Scope, laws, distinctions, open questions | [Foundation](FOUNDATION.md) |
+| Basic rights | Protected scope, common duties, recognition, and remedies | [Rights charter](RIGHTS_CHARTER.md) |
 | Coordination | Context markers, partial model alignment, visible level changes | [Context Alignment](CONTEXT_ALIGNMENT.md) |
 | Society and politics | Representation, authority, contestability, conflicts | [Governance](GOVERNANCE.md) |
 | Economics | Procurement, contracts, stewardship, experimental ratings | [Implementation](IMPLEMENTATION.md) |
@@ -58,7 +59,7 @@ Capital effects, lower systemic risk, and off-world resource benefits are hypoth
 
 ## Constitution and amendments
 
-[CONSTITUTION.md](CONSTITUTION.md) develops the proposed order. Five [amendment candidates](amendments/README.md) address tribes/swarms, two representation channels and separated powers, resource independence, information/decision accountability, and adaptive integration. Supplied law wording and earlier presentation/source materials remain preserved. Principles can be reconsidered only through a separately adopted foundational-revision procedure, not silent reinterpretation; final representation weights and ratification thresholds remain open.
+[CONSTITUTION.md](CONSTITUTION.md) develops the proposed order. Six [amendment candidates](amendments/README.md) address tribes/swarms, two representation channels and separated powers, resource independence, information/decision accountability, and adaptive integration. The sixth candidate adds a proposed [rights charter](RIGHTS_CHARTER.md) as a foundational revision: human-rights continuity, origin neutrality, tribal self-organization, and contestable role recognition. Basic protection is separate from political admission and voting weight. Supplied law wording and earlier presentation/source materials remain preserved. Principles can be reconsidered only through a separately adopted foundational-revision procedure, not silent reinterpretation; final representation weights and ratification thresholds remain open.
 
 The [German architecture map](docs/CONSTITUTIONAL_ARCHITECTURE.de.md) explains status and precedence. The [review-candidate dossier](docs/PEER_REVIEW_CANDIDATES.de.md) identifies twelve prospective experts with evidence of relevant networks/reach; no invitation, review, or endorsement is claimed. A [short English review brief](docs/REVIEW_BRIEF.en.md) supports a future bounded review request.
 
@@ -75,3 +76,5 @@ Originals remain available: [Asimov 2.0](Asimov_2_0_The_Symbiotic_Blueprint.pptx
 Current editions contain eleven slides, including Context Alignment; the prior nine-slide editions remain available. The [German safeguard map](docs/SAFEGUARD_PLACEMENT.de.md) explains where precaution, voluntary exchange, and conflict procedures belong.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) and [sources](docs/SOURCES.md). Challenge claims and document dissent. Architectural text retains the original CC BY-SA 4.0 licensing intent; software retains MIT. See [licensing scope](LICENSES.md).
+
+A [German comparative dossier](docs/INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md) maps twenty reference lines and thirteen conflict fields. A [discussion brief](docs/SHARING_BRIEF.de.md) introduces the draft for sharing. Textual overlap is not external endorsement.

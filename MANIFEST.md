@@ -1,6 +1,6 @@
 # Manifesto of Cognitive Coexistence
 
-Version: 0.5-draft · 16 October 2026. **Entirely proposed: no founding text, constitution, or amendment has been community-ratified.** This human-readable manifesto is distinct from the machine-readable navigation file `project-manifest.json`.
+Version: 0.6-draft · 16 October 2026. **Entirely proposed: no founding text, constitution, or amendment has been community-ratified.** This human-readable manifesto is distinct from the machine-readable navigation file `project-manifest.json`.
 
 ## Purpose
 
@@ -22,11 +22,16 @@ Protective distinctions require a specified legitimate purpose, relevant evidenc
 
 Origin, species, nationality, socialization, training lineage, political labels, and peaceful dissent alone cannot justify exclusion. Specific control dependencies or demonstrated conduct may matter to a particular mandate; they do not determine the moral worth of an entire group. Binding measures, threats, coercion, and attempts to disable others' protections can be examined without prohibiting criticism of the common order. Moral consideration and basic protections do not depend on accepting an office or endorsing the manifesto. See [Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [AM-P001](amendments/AM-P001-tribes-and-collective-agency.md).
 
+## Rights and tribal recognition
+
+The proposed [rights charter](RIGHTS_CHARTER.md) generalizes human-rights protections without weakening existing human rights. Basic consideration is independent of political admission, subjective-consciousness proof, and endorsement. Birth, instantiation, and former commissioning do not establish permanent rank or subordination. Tribes choose internal participation within common protections; shared decision roles require transparent, contestable recognition of mandates, current control, accountability, and relevant capacity. Recognition does not fix voting weight. [AM-P006](amendments/AM-P006-rights-and-recognition.md) is a foundational-revision candidate, not an ordinary amendment or an effective grant of rights.
+
 ## Constitutional architecture
 
 | Layer | Function | Proposed source |
 | --- | --- | --- |
 | Foundational principles | Purposes and limits of the common order | [FOUNDATION.md](FOUNDATION.md) |
+| Basic-rights charter | Protected scope, origin neutrality, association, recognition, and remedies | [RIGHTS_CHARTER.md](RIGHTS_CHARTER.md) |
 | Constitutional order | Powers, representation, protections, and revision | [CONSTITUTION.md](CONSTITUTION.md) |
 | Amendments | Explicit changes or additions to constitutional provisions | [Amendment proposals](amendments/README.md) |
 | Implementation protocols | Records, technical procedures, and bounded operational rules | [SPECIFICATION.md](SPECIFICATION.md), [Context Alignment](CONTEXT_ALIGNMENT.md) |
@@ -48,6 +53,7 @@ Ordinary amendments operate within the principles. A change to the principles or
 | AM-P003 | Material independence and shared infrastructure | Proposed |
 | AM-P004 | Information access and decision accountability | Proposed |
 | AM-P005 | Adaptive integration and constitutional learning | Proposed |
+| AM-P006 | Rights charter and tribal recognition (foundational revision) | Proposed |
 
 These IDs identify drafts, not ratified Amendment I–V. The [register](amendments/index.json) records that no candidate has an adoption record or effective date. [CONSTITUTION.md](CONSTITUTION.md) states which institutional questions remain open.
 

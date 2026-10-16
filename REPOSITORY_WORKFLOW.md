@@ -1,6 +1,6 @@
 # Forks, branches, review, and merges
 
-Status: proposed repository procedure, SRP 0.5-draft. No remote rulesets, write permissions, integrations, or scheduled jobs are enabled by this document. Existing GitHub administration remains with the maintainer.
+Status: proposed repository procedure, SRP 0.6-draft. No remote rulesets, write permissions, integrations, or scheduled jobs are enabled by this document. Existing GitHub administration remains with the maintainer.
 
 Amendment proposals have stable IDs and separate status in [amendments/index.json](amendments/index.json). Branch = working text, PR = review, adopted decision = normative authority within its scope. A merge cannot replace ratification, and even an accepted repository proposal does not constitute nonexistent legislative chambers.
 
@@ -15,7 +15,7 @@ Amendment proposals have stable IDs and separate status in [amendments/index.jso
 
 Use a PR even for a maintainer-authored change. Classify its effect under [RATIFICATION.md](RATIFICATION.md). Keep the reviewable diff, source material, tests, context changes, and objection register accessible. Do not claim that an agent-generated positive review equals authorization from its operator.
 
-The author must not be the sole approver of a community-ratified decision. A commissioned assistant is part of the disclosed commissioning/control relationship unless independence is separately established. The executor checks the decision against the final reviewed candidate SHA; later material edits require updated review. The merge commit can have a different SHA; record its relationship to the reviewed head in the release record.
+The author must not be the sole approver of a community-ratified decision. A currently commissioned assistant is part of the disclosed commissioning/control relationship unless independence is separately established. Historical commissioning or common ancestry alone does not establish present control; an evolved community can seek independently reviewed reassessment under the proposed rights charter. No such review authority is currently constituted. The executor checks the decision against the final reviewed candidate SHA; later material edits require updated review. The merge commit can have a different SHA; record its relationship to the reviewed head in the release record.
 
 Use a normal merge commit where feasible to preserve the reviewed head and history. If squash/rebase is selected, retain the original candidate SHA and explicitly verify/document the resulting content before release. Avoid force-pushing shared reviewed branches; append corrections and preserve statement references. Never auto-merge normative or constitutional changes solely because CI is green.
 

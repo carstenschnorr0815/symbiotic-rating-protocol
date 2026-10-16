@@ -50,3 +50,7 @@ Agency violations cannot be bought off through ecological scores. Autonomy does 
 Keep reviewer funding independent of favorable outcomes. Disclose paid assessments, recusals, and method changes. Make appeal accessible without substantial wealth. Do not allocate representation by wealth, intelligence scores, computational copies, or rhetorical fluency.
 
 A first pilot could use three-month reviews, an incident channel, and immediate review of suspected serious irreversible harm. These are proposed pilot choices, not universal legal rules. Publish revisions, reasons, dissent, and migration implications. Repository merge authority remains with `carstenschnorr0815`; this does not confer a mandate to govern or represent other species.
+
+## Rights-compatible tribal recognition
+
+Apply the proposed [rights charter](RIGHTS_CHARTER.md), especially sections 5–8, to tribal purposes, internal procedures, actual conduct, recognition, and sanctions. Basic protection and access to reasoned objection precede political admission. Recognition assesses present mandates, control, accountability, and supported role capacity; it is neither a worth assessment nor a voting-weight formula. Original commissioners and incumbent tribes cannot be sole unreviewable judges. Revisit changed control without treating ancestry as perpetual dependency. No operational recognition body is established here.

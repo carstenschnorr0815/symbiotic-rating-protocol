@@ -13,6 +13,7 @@ The [manifesto](../MANIFEST.md) separates foundational principles, constitutiona
 | AM-P003 | [Material independence](AM-P003-material-independence.md) | Protect participation from resource coercion | Proposed |
 | AM-P004 | [Information and accountability](AM-P004-information-and-accountability.md) | Add access and public decision-accountability duties | Proposed |
 | AM-P005 | [Adaptive integration](AM-P005-adaptive-integration.md) | Add admission-triggered review and revisable categories | Proposed |
+| AM-P006 | [Rights and recognition](AM-P006-rights-and-recognition.md) | Foundational-revision candidate: rights charter and role recognition | Proposed |
 
 [index.json](index.json) is the machine-readable register. Its schema and validator check record consistency, not adoption legitimacy or constitutional compatibility.
 

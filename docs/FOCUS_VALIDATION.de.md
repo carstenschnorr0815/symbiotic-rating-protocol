@@ -42,3 +42,7 @@ Die vier gelieferten Gesetze bleiben wörtlich erhalten. Präambel und Sicherung
 Dies ist eine überprüfbare Arbeitsgrundlage, keine bereits politisch legitimierte, finanzierte oder technisch abgesicherte Zivilisationsordnung. Unabhängige Gegenprüfung, reale Vertretungsmandate, Kalibrierung und Felderfahrung fehlen.
 
 Noch zu entscheiden: Auslegung von Gesetz III ohne erzwungene Abhängigkeit; spätere ausdrückliche Erweiterung von Gesetz II auf Individuen und vorübergehende Eingriffe; Abschluss des Purpose von Gesetz IV; Wahl einer realen Pilotdomäne. Diese Punkte begrenzen den Anspruch auf bereits vereinbarte normative Änderungen, nicht die Entwurfsarbeit.
+
+## Ergänzung 0.6-draft: Grundschutz und Anerkennung
+
+[Grundrechtscharta](../RIGHTS_CHARTER.md) und AM-P006 verankern Entstehungsneutralität, Schutz unabhängig von politischer Zulassung und Bewusstseinsnachweisen, interne Stammesautonomie mit Mitgliederschutz sowie anfechtbare Anerkennung gemeinsamer Mandate. Gegenwärtige Kontrolle wird von gemeinsamer Herkunft unterschieden. Ressourcen bleiben begrenzt und überprüfbar. Die [vergleichende Quellenprüfung](INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md) dokumentiert Übereinstimmungen und Konflikte; sie ersetzt keine Legitimation oder empirische Validierung.

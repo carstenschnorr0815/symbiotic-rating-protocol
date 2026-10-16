@@ -1,6 +1,6 @@
 # The Four Laws of Cognitive Symbiosis
 
-Status: proposed foundation, 0.5-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
+Status: proposed foundation, 0.6-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
 
 This is the foundational-principles layer of the [manifesto](MANIFEST.md). [CONSTITUTION.md](CONSTITUTION.md) and the [amendment candidates](amendments/README.md) develop institutional applications separately. No adoption is inferred from publication; changes to these principles require a distinct foundational-revision process rather than an ordinary amendment.
 
@@ -117,3 +117,7 @@ The proposed [participation](PARTICIPATION.md) and [ratification](RATIFICATION.m
 - Which institutions can legitimately decide at local, planetary, or prospective extraterrestrial scales?
 
 The project claims no final completeness. It commits to accountable revision.
+
+## Proposed rights articulation
+
+The [rights charter](RIGHTS_CHARTER.md) develops these principles without changing the supplied laws. It preserves existing human protections, separates basic consideration from political mandates, and rejects birth, instantiation, former commissioning, or consciousness proof as automatic status gates. Different interests and ecological functions require appropriate protections rather than fabricated personhood. AM-P006 treats this scope articulation as a foundational-revision candidate requiring separate legitimate adoption.

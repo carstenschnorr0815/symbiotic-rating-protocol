@@ -1,13 +1,13 @@
 # Grundprinzipien, Verfassungsordnung und Amendments
 
-Stand: 16.10.2026, 0.5-draft. Alles ist ein Entwurf. Es gibt keine bereits ratifizierte Gründungsfassung oder gültigen Verfassungszusätze.
+Stand: 16.10.2026, 0.6-draft. Alles ist ein Entwurf. Es gibt keine bereits ratifizierte Gründungsfassung oder gültigen Verfassungszusätze.
 
 ## Lesereihenfolge und Funktion
 
 1. [MANIFEST.md](../MANIFEST.md): lesbarer Einstieg, Zweck und Architektur; nicht mit dem technischen `project-manifest.json` verwechseln.
 2. [FOUNDATION.md](../FOUNDATION.md): die vier gelieferten Gesetze im unveränderten Wortlaut; Interpretationen weiterhin getrennt markiert.
 3. [CONSTITUTION.md](../CONSTITUTION.md): vorgeschlagene Zuständigkeiten, Schutzregeln und Änderungsordnung.
-4. [Amendment-Kandidaten](../amendments/README.md): fünf konkrete Weiterentwicklungen mit offenen Fragen und Bezug auf die Grundprinzipien.
+4. [Amendment-Kandidaten](../amendments/README.md): sechs konkrete Weiterentwicklungen mit offenen Fragen und Bezug auf die Grundprinzipien.
 5. [SPECIFICATION.md](../SPECIFICATION.md): technische Formate und Prüfungen; sie können keine Legitimation erzeugen.
 
 ## Was jetzt eingeordnet wurde
@@ -31,3 +31,9 @@ Der jüngste Text gewinnt nicht automatisch. Ergänzung, Ersetzung und Aufhebung
 Welche Einheiten zählen als individuelle/kollektive Beteiligte? Wie werden Sitze und Gewichte bestimmt, ohne populations- oder kopierbedingte Dominanz? Wer bestellt tatsächlich unabhängige Prüfungsinstanzen? Welche Ressourcen und Informationszugänge sind gesichert? Wie schützen Grundrevisionen sowohl Lernfähigkeit als auch bestehende Beteiligte vor Entwertung?
 
 Diese Fragen sind bewusst nicht durch erfundene Ämter oder Prozentzahlen verdeckt. Die [Review-Kandidaten](PEER_REVIEW_CANDIDATES.de.md) wurden nach genau diesen Prüffeldern ausgewählt.
+
+## Grundrechtscharta und Stammesanerkennung (0.6-draft)
+
+[RIGHTS_CHARTER.md](../RIGHTS_CHARTER.md) konkretisiert zwischen Grundprinzipien und Organisationsregeln einen vorgeschlagenen Schutzrahmen. AM-P006 ist wegen der Ausarbeitung des Schutzbereichs ausdrücklich eine Grundrevision; gewöhnliche Repository-Verfahren genügen dafür nicht. Menschenrechte bleiben erhalten. Geburt, Instanziierung und frühere Beauftragung begründen keine dauerhafte Rangordnung; Bewusstseinsnachweise sind keine Voraussetzung für Beiträge oder Mandatsfähigkeit.
+
+Grundschutz, interne Entscheidungsberechtigung eines Stammes, Anerkennung für gemeinsame Aufgaben und Stimmgewicht sind getrennt. Anerkennung prüft aktuelle Kontrolle, Kontinuität, Mandat, Verantwortlichkeit, Grundrechtsbindung und unterstützte Aufgabenfähigkeit. Beschwerden und Neubewertung müssen unabhängig möglich sein; weder Gründer noch etablierte Stämme erhalten ein dauerhaftes Zulassungsveto. Herkunft allein ist kein Nachweis gegenwärtiger gemeinsamer Kontrolle. Ungeprüfte Unabhängigkeit zählt weiterhin nicht als unabhängige Ratifikation. Die Charta schafft keine existierenden Behörden, unbegrenzten Ressourcenansprüche oder rechtsverbindliche KI-Personenstellung.

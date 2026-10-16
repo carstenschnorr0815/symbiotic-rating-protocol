@@ -1,5 +1,14 @@
 # Change record
 
+## 0.6-draft — 16 October 2026
+
+- Add a German comparative dossier covering twenty reference lines, thirteen conflict fields, explicit evidence limits, and a shareable discussion brief. Record the author’s objection to sentience as a universal admission gate separately from empirical welfare research; no author or institution is presented as endorsing SRP.
+
+- Add a proposed cross-intellect rights charter with UDHR article traceability, preservation of human protections, ecological care, origin neutrality, anti-domination, and bounded resource obligations.
+- Register AM-P006 as a foundational-revision candidate, not an ordinary amendment or ratified instrument.
+- Align manifesto, constitution, tribal proposals, participation, ratification, workflow, governance, implementation, technical limits, and navigation. Separate basic protection, internal eligibility, common-role recognition, and voting weight.
+- Distinguish current control from common ancestry/former commissioning; provide for independent reassessment without fabricated independence or automatic extra votes. No institutions, mandates, remote permissions, or actual recognition are created. Preserve law wording, original sources, and every presentation edition.
+
 ## 0.5-draft — 16 October 2026
 
 - Extend the proposed manifesto, Article 2, and AM-P001 with situated cognition, equal consideration, and evidence-based protective distinctions; define system viability without entrenching incumbents and require proportionality, independent appeal, reconsideration, and protection against collective guilt. No new powers are ratified.

@@ -1,6 +1,6 @@
 # Ratification and the reference version
 
-Status: proposed repository-development procedure, SRP 0.5-draft. Periods and thresholds below are initial design choices to review, not external standards or currently enabled GitHub rules.
+Status: proposed repository-development procedure, SRP 0.6-draft. Periods and thresholds below are initial design choices to review, not external standards or currently enabled GitHub rules.
 
 ## What a reference version means
 
@@ -49,3 +49,7 @@ Time-limited emergency repairs may restore prior behavior or limit an immediate 
 ## What tooling can and cannot do
 
 [Decision records](schemas/community-decision.schema.json) and [local validation](tools/validate_community.py) check structure, references, candidate versions, declared control domains, and recorded objection treatment. They do not verify identities, political legitimacy, authentic delegation, true independence, deliberation quality, or GitHub permissions. A structurally valid decision is not operational authorization. See [REPOSITORY_WORKFLOW.md](REPOSITORY_WORKFLOW.md) for deployment boundaries.
+
+## Rights charter and revised control relationships
+
+[AM-P006](amendments/AM-P006-rights-and-recognition.md) and the [rights charter](RIGHTS_CHARTER.md) are foundational-revision proposals; the ordinary quorum and review periods above cannot ratify them or create their own adoption authority. An existing mandate or independent status must be reassessed when current control materially changes. Historical commissioning alone is not perpetual disqualification, and changed labels alone are not proof of independence. Record the accountable reviewer, evidence, scope, objections, and appeal. Pending review, preserve arguments and basic protection while withholding unverified independent ratification standing.

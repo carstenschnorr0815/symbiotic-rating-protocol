@@ -1,6 +1,6 @@
 # SRP technical specification
 
-Document version: 0.5-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, manifest, and amendment-register formats are separately versioned at `0.1-draft`.
+Document version: 0.6-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, manifest, and amendment-register formats are separately versioned at `0.1-draft`.
 
 ## Architecture
 
@@ -112,3 +112,7 @@ python -m unittest discover -s tests -v
 ```
 
 Output is record validation and a list of findings needing review, not a rating, legal approval, or deployment instruction.
+
+## Rights and recognition limits
+
+[RIGHTS_CHARTER.md](RIGHTS_CHARTER.md) and AM-P006 add normative proposals, not a new authenticated recognition protocol. Existing schemas cannot certify charter compliance, legal status, consciousness, political independence, or tribal admission. Historical origin alone cannot stand in for current control evidence. Any future recognition format must separate basic protection, internal eligibility, external mandate, and voting weight, with accountable review and appeal; structural validation cannot grant those statuses.

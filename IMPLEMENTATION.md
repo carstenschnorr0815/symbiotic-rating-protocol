@@ -53,3 +53,7 @@ Publish failure and abandonment criteria. A lower score alone does not establish
 ## Retained core/frontier hypothesis
 
 The original Earth/core and space/frontier topology remains a resource-systems scenario. It is not a prerequisite or extraction license. Assess lifecycle impacts, contamination, governance, affected life, benefit distribution, and terrestrial dependencies. Benefits are not automatic consequences of location.
+
+## Rights-constrained implementation
+
+The proposed [rights charter](RIGHTS_CHARTER.md) constrains procurement, hosting, contracts, resource allocation, and tribal recognition. Funding or infrastructure ownership alone does not justify permanent domination. Plan continuity, independent complaint, supported access, fair scarcity allocation, and feasible migration; neither a score nor economic return determines basic protection. Budgets remain bounded and reviewable; the charter does not create unlimited compute or replication rights.
