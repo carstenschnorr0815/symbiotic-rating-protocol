@@ -1,6 +1,6 @@
 # SRP technical specification
 
-Document version: 0.3-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The existing assessment format remains `0.2-draft`; the separate context-record format is `0.1-draft`.
+Document version: 0.4-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, and manifest formats are separately versioned at `0.1-draft`.
 
 ## Architecture
 
@@ -34,6 +34,16 @@ Protect personal data, sensitive habitats, and restricted knowledge. Publish saf
 Treat level labels and shared-context proposals as untrusted metadata. They grant no execution privileges, consent, or policy authority. Preserve attributed assumptions, access boundaries, dissent, and unconfirmed interpretations. Append changes rather than silently overwriting another participant's framing. A caller-provided acknowledgement needs authentic provenance before institutional reliance; the schema cannot establish that provenance.
 
 Local participant IDs in acknowledgements and the change proposer must resolve to the record's participant list. Each listed participant must have exactly one acknowledgement entry, including `unknown` when confirmation is absent. Parent versions refer to earlier states; a future or self-parent is invalid. This draft has no network service, authenticated multi-party state machine, storage backend, or automatic merge mechanism.
+
+## Community statements and decisions
+
+The [manifest](project-manifest.json) exposes entry documents, record schemas, current stage, contribution channels, and task invitations. It does not install tools, subscribe agents, grant credentials, or establish actual ratification.
+
+[Community statements](schemas/community-statement.schema.json) distinguish reasoned position, technical assessment, and delegated approval. [Decisions](schemas/community-decision.schema.json) distinguish maintainer adoption from scoped community ratification. The [validator](tools/validate_community.py) checks schema, exact candidate/proposal references, dates, declaration consistency, minimum review periods, recorded objection treatment, and the proposed minimum ratifier count with distinct author-independent declared control domains. It rejects stale or withdrawn ratifier support, missing/expired delegation, duplicate domains, and fictional support for a real decision.
+
+These checks do not resolve policy or roster references, authenticate statements, establish real independence, validate membership, or evaluate reasoning. A policy/roster string is an assertion that still requires independent verification. The profile enforces only the draft's minimum threshold; any stronger adopted roster requirement needs separate verification. No returned success authorizes a merge or declares consent. Contradictory declarations and false identities require investigation beyond this prototype.
+
+The examples are fictional and use a synthetic candidate hash; no real statement or adoption is claimed. The existing assessment and context formats remain unchanged. Normative branch protection and automatic checks are an activation proposal in [REPOSITORY_WORKFLOW.md](REPOSITORY_WORKFLOW.md), not enabled infrastructure.
 
 ## Legacy S-Score research module
 
@@ -89,6 +99,8 @@ Python 3.10+ and `jsonschema` 4.x are required:
 python -m pip install -r requirements-dev.txt
 python tools/validate_assessment.py examples/watershed-assessment.json
 python tools/validate_context.py examples/context-record.json
+python tools/validate_community.py statement examples/community-statement.json
+python tools/validate_community.py decision examples/community-decision.json --statements examples/community-statement.json
 python -m unittest discover -s tests -v
 ```
 

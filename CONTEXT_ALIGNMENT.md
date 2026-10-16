@@ -72,6 +72,8 @@ Different timescales, sensory modalities, spatial boundaries, and individual/col
 
 ## Practical entry points
 
+For community development, [participation](PARTICIPATION.md) and [ratification](RATIFICATION.md) preserve the distinction between framing confirmation, substantive position, scoped delegation, and institutional decision. Shared control and task commissioning remain part of the declared context; they cannot disappear when a model produces a fluent endorsement.
+
 - Architecture reviews: mark whether a change concerns code, domain semantics, organization, or strategy; retain links between the levels.
 - Institutional deliberation: distinguish observations, proposed value choices, delegated authority, and implementation decisions.
 - Research and translation: keep observation, interpretation, confirmation, and consent as separate records.

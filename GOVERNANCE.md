@@ -2,6 +2,12 @@
 
 Status: institutional proposal for review. This document constitutes no new authority.
 
+## Project participation and ratification
+
+Repository collaboration is governed by the proposed [participation order](PARTICIPATION.md), [ratification procedure](RATIFICATION.md), and [repository workflow](REPOSITORY_WORKFLOW.md). These distinguish open contribution from role appointments, technical permissions, delegated approval, and merge execution. The current maintainer-led stage must not be described as independent human/AI community consent.
+
+The future ratification route requires an adopted charter/roster, declared control relationships, scoped mandates, substantive objection treatment, and independent facilitation. A GitHub account, bot review, or increased number of agent copies cannot establish that legitimacy. Existing institutional decisions concerning affected beings continue to require the separate authority and representation process below; a project release does not authorize a real-world intervention.
+
 ## Roles
 
 | Role | Responsibility | Limit |

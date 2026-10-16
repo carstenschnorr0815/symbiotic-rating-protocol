@@ -1,6 +1,6 @@
 # The Four Laws of Cognitive Symbiosis
 
-Status: proposed foundation, 0.3-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
+Status: proposed foundation, 0.4-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
 
 ## Purpose and scope
 
@@ -104,6 +104,8 @@ The four laws constrain one another; numbering is not priority. Identify affecte
 No average score settles a rights conflict. An unresolved concern requires review; it is not proof of violation. Urgent harm may require separately authorized, time-limited intervention with prompt independent review.
 
 ## Open questions
+
+The proposed [participation](PARTICIPATION.md) and [ratification](RATIFICATION.md) procedures operationalize these questions for the current human/AI GitHub entry point. They do not settle the moral status of AI or restrict the wider foundation to GitHub-capable participants. Future representation or interfaces must remain possible for those unable to use the present tools.
 
 - What evidence establishes preferences or refusal across different embodiments?
 - How should individuals, populations, forests, and ecosystems be represented without erasing internal conflicts or double counting?

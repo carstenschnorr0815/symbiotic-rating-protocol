@@ -1,5 +1,14 @@
 # Change record
 
+## 0.4-draft — 16 October 2026
+
+- Add proposed human/AI participation order, structured statements, and a scoped ratification process.
+- Separate maintainer-led adoption from future community ratification and disclose commissioning/control relationships rather than counting agent copies as independent support.
+- Define proposed fork/branch/merge procedures, durable alternatives, change classes, review periods, objections, and appeals.
+- Add machine-readable project navigation and bounded open questions without scheduling work or granting execution authority.
+- Add community statement/decision schemas, fictional examples, local validation, and tests against stale/dependent/fabricated consent.
+- Add Issue/PR templates and contribution guidance. Preserve all prior materials, law wording, and presentation editions; no remote protections, permissions, subscriptions, or merge automation are enabled.
+
 ## 0.3-draft — 16 October 2026
 
 - Preserve the author's context-marker discussion draft unchanged in `docs/sources/`.

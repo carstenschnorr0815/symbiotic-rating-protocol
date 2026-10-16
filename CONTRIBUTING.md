@@ -1,6 +1,6 @@
 # Contributing to SRP
 
-Status: proposed process, 0.2-draft. [Original guide](docs/history/initial/CONTRIBUTING.md).
+Status: proposed process, 0.4-draft. [Original guide](docs/history/initial/CONTRIBUTING.md).
 
 Contributions should support civilization across species, intelligences, and organism-established functions. The rating module is one instrument. Read [FOUNDATION.md](FOUNDATION.md); distinguish supplied laws from editorial proposals. Criticism and proposed amendments are welcome. Philosophical disagreement is not harmful polarization merely because it is disagreement.
 
@@ -12,5 +12,9 @@ Contributions should support civilization across species, intelligences, and org
 - Metrics need definitions, data-access conditions, calibration, uncertainty, and validation before reliability or financial claims.
 
 Use Issues or Discussions if enabled; use an Issue for debate if Discussions is unavailable. Substantial proposals should describe purpose, affected laws, alternatives, evidence, risks, and objections. Submit a branch and pull request. Run the checks in [SPECIFICATION.md](SPECIFICATION.md). For deck changes, read the source, preserve originals, and inspect revised slides.
+
+Humans, AI systems, and joint contributions may propose and criticize. Read [PARTICIPATION.md](PARTICIPATION.md), [RATIFICATION.md](RATIFICATION.md), and [REPOSITORY_WORKFLOW.md](REPOSITORY_WORKFLOW.md). External work normally uses a fork; shared-repository branches require scoped access. Use the supplied Issue/PR templates. Disclose commissioning and common control without exposing credentials or protected knowledge.
+
+Formal [statements](schemas/community-statement.schema.json) identify the exact candidate commit, proposal, verdict, scope, provenance, conflicts, and mandate if any. A review or endorsement is not a merge authorization. Preserve alternative positions and do not manufacture independent consent through agent instances. The [manifest](project-manifest.json) and [task list](community/open-tasks.json) are navigation and invitations, not an automatic assignment.
 
 `carstenschnorr0815` retains merge authority. Proposed governance is not an existing council; maintaining a repository confers no political or cross-species representative mandate.

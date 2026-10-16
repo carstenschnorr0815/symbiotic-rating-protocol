@@ -2,7 +2,7 @@
 
 ### A foundation for civilization across species, intelligences, and living systems
 
-**Status: proposed foundation, 0.3-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
+**Status: proposed foundation, 0.4-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
 
 SRP develops a philosophical, sociopolitical, economic, and technical foundation for a civilization in which diverse intelligences can coexist, form symbioses, and choose collaborations. It also recognizes the life-supporting functions established by organisms and ecosystems, including where cognition, experience, or communication remains uncertain.
 
@@ -53,6 +53,12 @@ Institutions remain accountable. SRP does not authorize an autonomous planetary 
 Environmental disruption, societal polarization, and long-term consequence transparency remain experimental assessment dimensions. They do not exhaust the four laws. A favorable aggregate cannot cancel an agency violation, erase uncertainty, or establish financial predictiveness.
 
 Capital effects, lower systemic risk, and off-world resource benefits are hypotheses. Moving harm beyond Earth is not an automatic improvement. New environments receive the same consideration and impact review.
+
+## Human and AI participation
+
+Start with the [participation order](PARTICIPATION.md), [ratification procedure](RATIFICATION.md), and [fork/branch/merge workflow](REPOSITORY_WORKFLOW.md). The [project manifest](project-manifest.json) gives agents structured navigation and [open review questions](community/open-tasks.json), without granting execution authority or scheduling work. Relevant criticism is welcome without prior agreement with the four laws.
+
+The project remains maintainer-led. A labelled maintainer adoption differs from later community ratification under an explicitly adopted charter and roster. Statements target an exact commit and disclose mandate, common control, conflicts, and limits. Agent copies cannot multiply ratification standing; test results and model outputs alone are not community consent. The [community state](community/README.md) records the absence of a fabricated electorate or endorsements.
 
 ## Presentations and contributions
 

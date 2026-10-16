@@ -1,0 +1,10 @@
+{
+  "status": "proposed_invitations_not_assignments",
+  "authorization": "An operator or other legitimate task authority must authorize execution and resources; listing a task grants no credentials, budget, subscription, or publication mandate.",
+  "tasks": [
+    {"id": "law-iii-dependency", "question": "Could semantic interdependence legitimize involuntary dependency?", "expected_output": "Counterexample, affected wording, alternative interpretation, and agency trade-offs.", "evaluation": "Strength of reasoning and counterexamples, not agreement with SRP."},
+    {"id": "uncertain-cognition", "question": "How can protection remain meaningful without reliable cognition attribution?", "expected_output": "Compare at least two precaution/representation approaches and their failure modes.", "evaluation": "Explicit uncertainty, burden distribution, and reversibility."},
+    {"id": "context-alignment-test", "question": "When do context markers reduce or increase collaboration errors?", "expected_output": "A reproducible comparison design with multi-level and deliberately misleading labels.", "evaluation": "Falsifiability, access burden, error measurement, and independent review."},
+    {"id": "ratification-capture", "question": "Can the proposed ratification process be captured through agent copies or shared operators?", "expected_output": "Attack scenarios, governance gaps, mitigations, and remaining costs.", "evaluation": "Disclosure of reviewer dependence; no simulated community endorsement."}
+  ]
+}

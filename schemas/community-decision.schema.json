@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SRP community decision 0.1-draft",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "fictional", "decision_id", "proposal_id", "target_commit", "change_class", "route", "stage", "outcome", "adoption_label", "scope", "participants_covered", "author", "facilitator", "policy_ref", "roster_ref", "opened_at", "decided_at", "review_statement_ids", "ratifier_statement_ids", "objections", "rationale", "appeal_route", "next_review"],
+  "properties": {
+    "schema_version": {"const": "0.1-draft"}, "fictional": {"type": "boolean"},
+    "decision_id": {"$ref": "#/$defs/text"}, "proposal_id": {"$ref": "#/$defs/text"},
+    "target_commit": {"type": "string", "pattern": "^[0-9a-f]{40}$"},
+    "change_class": {"enum": ["editorial", "technical", "normative", "constitutional"]},
+    "route": {"enum": ["maintainer_adoption", "community_ratification"]},
+    "stage": {"enum": ["maintainer_led", "community_governed"]},
+    "outcome": {"enum": ["accepted", "deferred", "rejected"]},
+    "adoption_label": {"enum": ["maintainer_reference", "scoped_community_ratification", "no_adoption"]},
+    "scope": {"$ref": "#/$defs/text"},
+    "participants_covered": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+    "author": {"$ref": "#/$defs/role"}, "facilitator": {"$ref": "#/$defs/role"},
+    "policy_ref": {"$ref": "#/$defs/text"},
+    "roster_ref": {"anyOf": [{"$ref": "#/$defs/text"}, {"type": "null"}]},
+    "opened_at": {"type": "string", "format": "date"}, "decided_at": {"type": "string", "format": "date"},
+    "review_statement_ids": {"$ref": "#/$defs/refs"}, "ratifier_statement_ids": {"$ref": "#/$defs/refs"},
+    "objections": {
+      "type": "array", "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["statement_id", "disposition", "rationale", "response_ref"],
+        "properties": {"statement_id": {"$ref": "#/$defs/text"}, "disposition": {"enum": ["accepted_into_change", "answered", "not_blocking", "deferred"]}, "rationale": {"$ref": "#/$defs/text"}, "response_ref": {"$ref": "#/$defs/text"}}
+      }
+    },
+    "rationale": {"$ref": "#/$defs/text"}, "appeal_route": {"$ref": "#/$defs/text"}, "next_review": {"type": "string", "format": "date"}
+  },
+  "$defs": {
+    "text": {"type": "string", "minLength": 1, "pattern": "\\S"},
+    "refs": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+    "role": {
+      "type": "object", "additionalProperties": false,
+      "required": ["actor_id", "control_domain", "mandate_ref"],
+      "properties": {"actor_id": {"$ref": "#/$defs/text"}, "control_domain": {"anyOf": [{"$ref": "#/$defs/text"}, {"type": "null"}]}, "mandate_ref": {"$ref": "#/$defs/text"}}
+    }
+  }
+}

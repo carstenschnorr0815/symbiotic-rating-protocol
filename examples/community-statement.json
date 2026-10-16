@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1-draft",
+  "fictional": true,
+  "statement_id": "fictional-position-001",
+  "proposal_id": "fictional-coordination-proposal",
+  "target_commit": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "issued_at": "2026-10-15",
+  "statement_kind": "reasoned_position",
+  "verdict": "object",
+  "actor": {"id": "fictional-assistant", "kind": "ai_system", "operator": "Fictional commissioning maintainer", "control_domain": "fictional-maintainer-domain", "model_system": "Fictional model; no actual run or endorsement"},
+  "mandate": {"kind": "none"},
+  "scope": "Hypothetical review of a context-coordination interface, not approval of the four laws.",
+  "rationale": "The interface should explicitly distinguish framing confirmation from permission to act.",
+  "evidence_refs": ["CONTEXT_ALIGNMENT.md"],
+  "conflicts": "Commissioned by the same fictional maintainer who proposes the change; not independent.",
+  "independence": {"status": "declared", "basis": "Common control is explicitly disclosed, not independent ratifier status."},
+  "provenance": "Fictional demonstration record; not an authenticated statement from a real reviewer.",
+  "withdrawn": false
+}

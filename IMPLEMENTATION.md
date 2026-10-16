@@ -38,6 +38,8 @@ Use portable formats, multiple interpretations, manual fallback, and continuity 
 
 ## Staged development
 
+The repository-level entry point for human and agent collaboration is specified in [PARTICIPATION.md](PARTICIPATION.md), [RATIFICATION.md](RATIFICATION.md), and [REPOSITORY_WORKFLOW.md](REPOSITORY_WORKFLOW.md). The [manifest](project-manifest.json) and structured records support discoverability and review; they do not deploy a community service or a ratifying authority. Maintaining other species' and ecological functions' consideration remains necessary even though direct GitHub participation is currently limited.
+
 Add [Context Alignment](CONTEXT_ALIGNMENT.md) to architecture reviews, meeting records, change requests, and operational handovers. Record relevant levels, assumptions, accessible context, model versions, and disagreements. Evaluate its additional coordination cost and whether it reduces actual misunderstandings. Shared representations must remain portable, revisable, and compatible with selective disclosure; a joint functional unit does not become a new authority merely because it shares a model.
 
 1. Review principles, counterexamples, and conflicts; obtain author review of proposed safeguards.

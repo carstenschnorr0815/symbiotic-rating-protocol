@@ -4,6 +4,8 @@ Die Originale sind erhalten: beide Präsentationen unverändert im Hauptverzeich
 
 ## Empfohlene Lesereihenfolge
 
+**Beteiligungserweiterung, 16.10.2026:** [PARTICIPATION.md](../PARTICIPATION.md) beschreibt Zugang und Beiträge von Menschen/KI; [RATIFICATION.md](../RATIFICATION.md) trennt Maintainer-Annahme und spätere Gemeinschaftsratifikation; [REPOSITORY_WORKFLOW.md](../REPOSITORY_WORKFLOW.md) regelt Forks, Branches und Merges. Der [Manifest-Einstieg](../project-manifest.json) ist maschinenlesbar. Es sind keine neue Wählerschaft, unabhängige Zustimmung oder technischen GitHub-Schutzregeln erfunden bzw. aktiviert worden.
+
 Zur Einordnung der Ergänzungen: [Wo die Sicherungen hingehören](SAFEGUARD_PLACEMENT.de.md) verbindet Geltungsbereich, vier Gesetze, Governance, Context Alignment und technische Spezifikation.
 
 **Ergänzung vom 16.10.2026:** Zuerst [Context Alignment](../CONTEXT_ALIGNMENT.md) lesen. Dein neuer Diskussionsentwurf ist als Koordinationsschicht eingearbeitet; der [Originaltext](sources/2026-10-16-context-markers-original.de.txt) ist unverändert erhalten. Ebenenmarker, dynamische/asymmetrische Kontexte und die funktionale Mensch-KI-Einheit verbinden die Gesetze mit praktischen Verfahren. Die Erweiterung auf andere Intellekte bleibt offen für nicht übersetzbare Perspektiven.
@@ -15,6 +17,9 @@ Zur Einordnung der Ergänzungen: [Wo die Sicherungen hingehören](SAFEGUARD_PLAC
 5. [Präsentationen](../presentations/README.md): aktuelle Begleitfassungen mit jeweils elf Folien, einschließlich Context Alignment; die bisherigen Neun-Folien-Fassungen bleiben erhalten.
 
 ## Inhaltliche Entscheidungen für die nächste gemeinsame Revision
+
+- Beteiligungsordnung: Sind die vorgeschlagenen Review-Zeiten von 7/14/30 Tagen und die Voraussetzungen einer späteren Gemeinschaftsratifikation angemessen?
+- Übergang: Wer soll in einem veröffentlichten, legitimierten Verfahren unabhängige Reviewer und Ratifier benennen, abberufen und kontrollieren? Bis dahin bleibt die Verantwortung beim Maintainer und wird entsprechend bezeichnet.
 
 - Context Alignment: Die Aussage „Gemeinsame Modelle sind wichtiger als individuelle Modelle“ ist als aufgabenbezogene Koordination ausgelegt. Individuelle Werte, vertrauliches Wissen und abweichende Modelle behalten ihren Schutz. Passt diese Auslegung?
 - Marker: Mehrere Ebenen, unbekannte Ebenen und domänenspezifische Vokabulare sind zulässig; eine Bestätigung der Ebene ersetzt keine Zustimmung zu einer Handlung.
