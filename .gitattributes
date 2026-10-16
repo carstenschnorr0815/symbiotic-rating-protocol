@@ -1,0 +1,4 @@
+# Preserve the initial repository blobs exactly, including their line endings.
+docs/history/initial/* -text
+docs/sources/* -text
+*.pptx binary

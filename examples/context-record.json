@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1-draft",
+  "fictional": true,
+  "context_id": "api-information-object-exercise",
+  "context_version": 2,
+  "parent_version": 1,
+  "scope": "Fictional correction of an API modelling discussion; no implementation authority or regulatory compliance claim.",
+  "level_vocabulary": {
+    "name": "technical-and-organizational-discussion",
+    "version": "0.1-draft",
+    "definitions": {
+      "CODE": "Methods and data structures",
+      "COMPONENT": "Module responsibilities",
+      "PIPELINE": "Data flow and transformations",
+      "ARCHITECTURE": "Domain concepts, relationships, and system boundaries",
+      "ORGANIZATION": "Roles, maintenance, and authority",
+      "STRATEGY": "Purpose and external constraints",
+      "UNSPECIFIED": "Relevant level remains unknown or disputed"
+    }
+  },
+  "levels": ["ARCHITECTURE"],
+  "participants": [
+    {"id": "human", "role": "Fictional domain contributor", "declared_access": ["Project experience"], "access_limits": "No actual repository or organizational mandate is supplied."},
+    {"id": "assistant", "role": "Fictional model-assisted contributor", "declared_access": ["Explicitly shared request"], "access_limits": "No implicit access to project history or private knowledge."}
+  ],
+  "assumptions": ["An API may relate to several information objects; cardinality and meaning still require domain review."],
+  "evidence_refs": ["docs/sources/2026-10-16-context-markers-original.de.txt"],
+  "change": {
+    "proposer": "human",
+    "previous_levels": ["STRATEGY"],
+    "description": "Discuss the domain relationship before strategic outcomes or code changes.",
+    "reason": "The previous interpretation addressed a wider goal rather than the modelling question."
+  },
+  "acknowledgements": [
+    {"participant_id": "human", "status": "confirmed", "scope": "Fictional intended level only", "basis": "Illustrative declaration, not a real approval."},
+    {"participant_id": "assistant", "status": "unknown", "scope": "Interpretation of the proposed new level", "basis": "No reciprocal confirmation has yet been recorded in this fictional exchange."}
+  ],
+  "unresolved": ["The parent context is referenced but not supplied in this single-record example.", "Reciprocal level confirmation and actual domain model remain unresolved.", "No consent to implementation or authority to change a system is recorded."]
+}

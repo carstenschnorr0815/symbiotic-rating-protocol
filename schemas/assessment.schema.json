@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SRP assessment record 0.2-draft",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["protocol_version", "assessment_id", "fictional", "scope", "authority", "period", "participants", "alternatives", "evidence", "laws", "review"],
+  "properties": {
+    "protocol_version": {"const": "0.2-draft"},
+    "assessment_id": {"$ref": "#/$defs/text"},
+    "fictional": {"type": "boolean"},
+    "scope": {"$ref": "#/$defs/text"},
+    "authority": {"$ref": "#/$defs/text"},
+    "period": {
+      "type": "object", "additionalProperties": false,
+      "required": ["start", "end"],
+      "properties": {"start": {"type": "string", "format": "date"}, "end": {"type": "string", "format": "date"}}
+    },
+    "participants": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["id", "kind", "description", "representation", "consent", "uncertainty"],
+        "properties": {
+          "id": {"$ref": "#/$defs/text"},
+          "kind": {"enum": ["human_community", "artificial_agent", "nonhuman_population", "ecological_function", "uncertain_other"]},
+          "description": {"$ref": "#/$defs/text"},
+          "representation": {"$ref": "#/$defs/text"},
+          "consent": {"enum": ["documented", "refused", "unknown", "not_applicable"]},
+          "uncertainty": {"$ref": "#/$defs/text"}
+        }
+      }
+    },
+    "alternatives": {"type": "array", "minItems": 2, "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["id", "source", "access", "method", "observation", "limitations"],
+        "properties": {
+          "id": {"$ref": "#/$defs/text"},
+          "source": {"$ref": "#/$defs/text"},
+          "access": {"enum": ["public", "restricted", "unavailable", "fictional"]},
+          "method": {"$ref": "#/$defs/text"},
+          "observation": {"$ref": "#/$defs/text"},
+          "limitations": {"$ref": "#/$defs/text"}
+        }
+      }
+    },
+    "laws": {
+      "type": "object", "additionalProperties": false,
+      "required": ["I", "II", "III", "IV"],
+      "properties": {
+        "I": {"$ref": "#/$defs/finding"}, "II": {"$ref": "#/$defs/finding"},
+        "III": {"$ref": "#/$defs/finding"}, "IV": {"$ref": "#/$defs/finding"}
+      }
+    },
+    "review": {
+      "type": "object", "additionalProperties": false,
+      "required": ["reviewer", "interests", "unresolved_objections", "next_review"],
+      "properties": {
+        "reviewer": {"$ref": "#/$defs/text"}, "interests": {"$ref": "#/$defs/text"},
+        "unresolved_objections": {"type": "array", "items": {"$ref": "#/$defs/text"}},
+        "next_review": {"type": "string", "format": "date"}
+      }
+    }
+  },
+  "$defs": {
+    "text": {"type": "string", "minLength": 1, "pattern": "\\S"},
+    "finding": {
+      "type": "object", "additionalProperties": false,
+      "required": ["status", "rationale", "evidence_refs"],
+      "properties": {
+        "status": {"enum": ["supported", "concern", "unknown"]},
+        "rationale": {"$ref": "#/$defs/text"},
+        "evidence_refs": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/text"}}
+      },
+      "allOf": [{"if": {"properties": {"status": {"const": "supported"}}}, "then": {"properties": {"evidence_refs": {"minItems": 1}}}}]
+    }
+  }
+}
