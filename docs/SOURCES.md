@@ -1,5 +1,14 @@
 # Sources and evidence status
 
+## Constitutional architecture and prospective review — 16 October 2026
+
+- [US National Archives: amendment process](https://www.archives.gov/federal-register/constitution) supports the distinction between proposal and ratification and the existence of demanding amendment procedures. SRP does not copy its thresholds or claim the US procedure is inherently more iterative.
+- [Article 79 GG](https://www.gesetze-im-internet.de/gg/art_79.html) supports that the German Basic Law is amendable and contains protected principles. The comparison is contextual, not legal advice or a claim that either national model supplies cross-species legitimacy.
+- [JFK Library: Profile in Courage](https://www.jfklibrary.org/events-and-awards/jfk-profile-in-courage-award) contextualizes the author's political-courage reference; it does not establish SRP's proposed evidence protocol.
+- [OECD: Open Government for Stronger Democracies](https://www.oecd.org/en/publications/open-government-for-stronger-democracies_5478db5b-en.html) is a reference for usable/contestable information and accountability, not a guarantee that transparency produces consensus.
+
+The [reviewer dossier](PEER_REVIEW_CANDIDATES.de.md) contains the primary institutional/own-page sources for twelve prospective candidates, checked on 16 October 2026. Fit, prioritization, and potential effectiveness are editorial inferences. No contact, availability, endorsement, or peer review is asserted.
+
 ## Participation and repository process references — 16 October 2026
 
 - [RFC 7282](https://www.rfc-editor.org/rfc/rfc7282.html): informational discussion of rough consensus, including substantive treatment of objections rather than a headcount. SRP's proposed periods, roles, and thresholds are its own design choices, not IETF requirements.

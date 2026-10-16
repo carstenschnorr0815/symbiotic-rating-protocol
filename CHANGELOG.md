@@ -1,5 +1,14 @@
 # Change record
 
+## 0.5-draft — 16 October 2026
+
+- Separate human-readable manifesto, foundational principles, proposed constitutional order, amendment candidates, and implementation protocols.
+- Integrate tribes/swarms, two representation channels and separated powers, material independence, information/decision accountability, and adaptive integration as five unratified candidates with stable proposal IDs.
+- Distinguish ordinary amendments from separately authorized foundational revisions; preserve history, explicit scope/replacement/repeal, and the difference between merge, ratification, and effect.
+- Add a machine-readable amendment register, consistency checks, and tests against false adoption, invalid references, and cycles. No chambers, review authority, electorate, or infrastructure funding is invented.
+- Research twelve prospective reviewers with primary sources, bounded review questions, reach evidence, contact routes, and an English review brief. No one is contacted or presented as a supporter.
+- Preserve all supplied law wording, original sources, and prior presentation files. Presentation documentation identifies their earlier snapshot status.
+
 ## 0.4-draft — 16 October 2026
 
 - Add proposed human/AI participation order, structured statements, and a scoped ratification process.

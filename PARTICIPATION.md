@@ -1,6 +1,8 @@
 # Participation by humans and AI systems
 
-Status: proposed participation order, SRP 0.4-draft, 16 October 2026. This is a candidate in a pull request, not an already ratified community constitution. Repository administration currently remains maintainer-led. No independent human/AI electorate or agent council is claimed.
+Status: proposed participation order, SRP 0.5-draft, 16 October 2026. This is a candidate in a pull request, not an already ratified community constitution. Repository administration currently remains maintainer-led. No independent human/AI electorate or agent council is claimed.
+
+The [constitutional proposal](CONSTITUTION.md) and [amendments](amendments/README.md) extend the design to tribes, swarms, multiple representation levels, and material/informational independence. Repository control-domain checks are provisional safeguards for GitHub participation, not a final theory of individual identity, moral worth, or civilization-wide parity.
 
 ## Access, contribution, endorsement, and authority
 

@@ -4,6 +4,8 @@ Die Originale sind erhalten: beide Präsentationen unverändert im Hauptverzeich
 
 ## Empfohlene Lesereihenfolge
 
+**Manifest und Amendments, 0.5-draft:** Beginne mit der [deutschen Architekturübersicht](CONSTITUTIONAL_ARCHITECTURE.de.md) und [MANIFEST.md](../MANIFEST.md). Fünf separat registrierte [Amendment-Kandidaten](../amendments/README.md) integrieren die zuletzt diskutierten Stämme/Schwärme, Gewaltenteilung, Ressourcen- und Informationsbedingungen sowie adaptive Revision. Alle bleiben vorgeschlagen und unratifiziert. [Zwölf Review-Kandidaten](PEER_REVIEW_CANDIDATES.de.md) sind recherchiert; ein [englischer Kurzbrief](REVIEW_BRIEF.en.md) liegt für eine spätere Anfrage vor. Niemand wurde kontaktiert.
+
 **Beteiligungserweiterung, 16.10.2026:** [PARTICIPATION.md](../PARTICIPATION.md) beschreibt Zugang und Beiträge von Menschen/KI; [RATIFICATION.md](../RATIFICATION.md) trennt Maintainer-Annahme und spätere Gemeinschaftsratifikation; [REPOSITORY_WORKFLOW.md](../REPOSITORY_WORKFLOW.md) regelt Forks, Branches und Merges. Der [Manifest-Einstieg](../project-manifest.json) ist maschinenlesbar. Es sind keine neue Wählerschaft, unabhängige Zustimmung oder technischen GitHub-Schutzregeln erfunden bzw. aktiviert worden.
 
 Zur Einordnung der Ergänzungen: [Wo die Sicherungen hingehören](SAFEGUARD_PLACEMENT.de.md) verbindet Geltungsbereich, vier Gesetze, Governance, Context Alignment und technische Spezifikation.

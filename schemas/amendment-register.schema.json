@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SRP amendment proposal register 0.1-draft",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "document_version", "constitutional_status", "proposals"],
+  "properties": {
+    "schema_version": {"const": "0.1-draft"},
+    "document_version": {"type": "string", "minLength": 1},
+    "constitutional_status": {"enum": ["proposed", "maintainer_reference", "community_ratified"]},
+    "proposals": {"type": "array", "items": {"$ref": "#/$defs/proposal"}}
+  },
+  "$defs": {
+    "text": {"type": "string", "minLength": 1, "pattern": "\\S"},
+    "proposal": {
+      "type": "object", "additionalProperties": false,
+      "required": ["proposal_id", "title", "text_path", "kind", "status", "principles", "affected_provisions", "supersedes", "repeals", "adoption_route", "decision_ref", "text_commit", "effective_from"],
+      "properties": {
+        "proposal_id": {"type": "string", "pattern": "^AM-P[0-9]{3,}$"},
+        "title": {"$ref": "#/$defs/text"}, "text_path": {"$ref": "#/$defs/text"},
+        "kind": {"enum": ["ordinary_amendment", "foundational_revision"]},
+        "status": {"enum": ["proposed", "under_review", "withdrawn", "rejected", "maintainer_reference", "ratified", "active", "superseded", "repealed"]},
+        "principles": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"enum": ["I", "II", "III", "IV"]}},
+        "affected_provisions": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+        "supersedes": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+        "repeals": {"type": "array", "uniqueItems": true, "items": {"$ref": "#/$defs/text"}},
+        "adoption_route": {"enum": [null, "maintainer_reference", "community_ratification"]},
+        "decision_ref": {"anyOf": [{"type": "null"}, {"$ref": "#/$defs/text"}]},
+        "text_commit": {"type": ["string", "null"], "pattern": "^[0-9a-f]{40}$"},
+        "effective_from": {"type": ["string", "null"], "format": "date"}
+      }
+    }
+  }
+}

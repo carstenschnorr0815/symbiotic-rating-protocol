@@ -1,6 +1,6 @@
 # SRP technical specification
 
-Document version: 0.4-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, and manifest formats are separately versioned at `0.1-draft`.
+Document version: 0.5-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, manifest, and amendment-register formats are separately versioned at `0.1-draft`.
 
 ## Architecture
 
@@ -44,6 +44,12 @@ The [manifest](project-manifest.json) exposes entry documents, record schemas, c
 These checks do not resolve policy or roster references, authenticate statements, establish real independence, validate membership, or evaluate reasoning. A policy/roster string is an assertion that still requires independent verification. The profile enforces only the draft's minimum threshold; any stronger adopted roster requirement needs separate verification. No returned success authorizes a merge or declares consent. Contradictory declarations and false identities require investigation beyond this prototype.
 
 The examples are fictional and use a synthetic candidate hash; no real statement or adoption is claimed. The existing assessment and context formats remain unchanged. Normative branch protection and automatic checks are an activation proposal in [REPOSITORY_WORKFLOW.md](REPOSITORY_WORKFLOW.md), not enabled infrastructure.
+
+## Amendment register
+
+[MANIFEST.md](MANIFEST.md) defines document layers; [CONSTITUTION.md](CONSTITUTION.md) and [amendments/README.md](amendments/README.md) define the proposed constitutional lifecycle. The [register](amendments/index.json) and its [schema](schemas/amendment-register.schema.json) distinguish proposal IDs, ordinary amendments/foundational revisions, status, affected provisions, and adoption metadata.
+
+[Local validation](tools/validate_amendments.py) checks structure, local file containment/existence, unique IDs, replacement/repeal reference consistency, cycles, decision/text references for adopted status, and dates/constitutional-status requirements for active records. It does not authenticate the referenced decision, inspect its mandate or text hash, enforce historical transitions, assess compatibility, verify actual temporal activation, or approve ratification. A valid register is not a constitutional decision or deployed registry service. All five current candidates remain proposed with null adoption fields.
 
 ## Legacy S-Score research module
 
@@ -101,6 +107,7 @@ python tools/validate_assessment.py examples/watershed-assessment.json
 python tools/validate_context.py examples/context-record.json
 python tools/validate_community.py statement examples/community-statement.json
 python tools/validate_community.py decision examples/community-decision.json --statements examples/community-statement.json
+python tools/validate_amendments.py amendments/index.json
 python -m unittest discover -s tests -v
 ```
 

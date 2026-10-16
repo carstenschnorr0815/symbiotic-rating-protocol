@@ -2,7 +2,9 @@
 
 ### A foundation for civilization across species, intelligences, and living systems
 
-**Status: proposed foundation, 0.4-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
+**Status: proposed foundation, 0.5-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
+
+Start with the human-readable [Manifesto of Cognitive Coexistence](MANIFEST.md). It separates foundational principles, a proposed constitutional order, explicit amendment candidates, and implementation protocols. **No founding text or amendment has been community-ratified.** The [machine-readable project manifest](project-manifest.json) is a navigation aid, not the constitution.
 
 SRP develops a philosophical, sociopolitical, economic, and technical foundation for a civilization in which diverse intelligences can coexist, form symbioses, and choose collaborations. It also recognizes the life-supporting functions established by organisms and ecosystems, including where cognition, experience, or communication remains uncertain.
 
@@ -53,6 +55,12 @@ Institutions remain accountable. SRP does not authorize an autonomous planetary 
 Environmental disruption, societal polarization, and long-term consequence transparency remain experimental assessment dimensions. They do not exhaust the four laws. A favorable aggregate cannot cancel an agency violation, erase uncertainty, or establish financial predictiveness.
 
 Capital effects, lower systemic risk, and off-world resource benefits are hypotheses. Moving harm beyond Earth is not an automatic improvement. New environments receive the same consideration and impact review.
+
+## Constitution and amendments
+
+[CONSTITUTION.md](CONSTITUTION.md) develops the proposed order. Five [amendment candidates](amendments/README.md) address tribes/swarms, two representation channels and separated powers, resource independence, information/decision accountability, and adaptive integration. Supplied law wording and earlier presentation/source materials remain preserved. Principles can be reconsidered only through a separately adopted foundational-revision procedure, not silent reinterpretation; final representation weights and ratification thresholds remain open.
+
+The [German architecture map](docs/CONSTITUTIONAL_ARCHITECTURE.de.md) explains status and precedence. The [review-candidate dossier](docs/PEER_REVIEW_CANDIDATES.de.md) identifies twelve prospective experts with evidence of relevant networks/reach; no invitation, review, or endorsement is claimed. A [short English review brief](docs/REVIEW_BRIEF.en.md) supports a future bounded review request.
 
 ## Human and AI participation
 

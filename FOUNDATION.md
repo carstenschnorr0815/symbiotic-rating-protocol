@@ -1,6 +1,8 @@
 # The Four Laws of Cognitive Symbiosis
 
-Status: proposed foundation, 0.4-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
+Status: proposed foundation, 0.5-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
+
+This is the foundational-principles layer of the [manifesto](MANIFEST.md). [CONSTITUTION.md](CONSTITUTION.md) and the [amendment candidates](amendments/README.md) develop institutional applications separately. No adoption is inferred from publication; changes to these principles require a distinct foundational-revision process rather than an ordinary amendment.
 
 ## Purpose and scope
 

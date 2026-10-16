@@ -1,26 +1,30 @@
 {
   "manifest_version": "0.1-draft",
   "project": "Symbiotic Rating Protocol",
-  "document_version": "0.4-draft",
+  "document_version": "0.5-draft",
   "status": "proposed",
   "repository": "https://github.com/carstenschnorr0815/symbiotic-rating-protocol",
   "publication_branch": "main",
   "candidate_branch": "codex/cognitive-symbiosis-foundation",
   "governance_stage": "maintainer_led",
   "community_ratification_established": false,
-  "entry_documents": ["README.md", "FOUNDATION.md", "CONTEXT_ALIGNMENT.md", "PARTICIPATION.md", "RATIFICATION.md", "REPOSITORY_WORKFLOW.md", "GOVERNANCE.md", "SPECIFICATION.md"],
+  "entry_documents": ["README.md", "MANIFEST.md", "FOUNDATION.md", "CONSTITUTION.md", "amendments/README.md", "CONTEXT_ALIGNMENT.md", "PARTICIPATION.md", "RATIFICATION.md", "REPOSITORY_WORKFLOW.md", "GOVERNANCE.md", "SPECIFICATION.md"],
   "record_schemas": {
     "assessment": "schemas/assessment.schema.json",
     "context": "schemas/context-record.schema.json",
     "community_statement": "schemas/community-statement.schema.json",
-    "community_decision": "schemas/community-decision.schema.json"
+    "community_decision": "schemas/community-decision.schema.json",
+    "amendment_register": "schemas/amendment-register.schema.json"
   },
   "open_tasks": "community/open-tasks.json",
   "community_state": "community/README.md",
+  "amendment_register": "amendments/index.json",
+  "constitutional_status": "proposed",
+  "effective_community_amendments": [],
   "contribution_channels": ["GitHub Issues", "Pull requests from contributor-controlled forks", "GitHub Discussions if enabled"],
   "default_agent_mode": "advisory_contributor_with_explicit_task_authorization",
   "automatic_subscriptions_enabled_by_manifest": false,
   "grants_credentials_or_execution_authority": false,
   "reference_rule": "Only explicitly adopted scope is normative; files on main, stars, model outputs, and review counts alone do not establish consent.",
-  "local_validation": ["python -m unittest discover -s tests -v", "python tools/validate_community.py statement examples/community-statement.json", "python tools/validate_community.py decision examples/community-decision.json --statements examples/community-statement.json"]
+  "local_validation": ["python -m unittest discover -s tests -v", "python tools/validate_community.py statement examples/community-statement.json", "python tools/validate_community.py decision examples/community-decision.json --statements examples/community-statement.json", "python tools/validate_amendments.py amendments/index.json"]
 }

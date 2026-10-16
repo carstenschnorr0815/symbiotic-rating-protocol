@@ -2,6 +2,8 @@
 
 Status: institutional proposal for review. This document constitutes no new authority.
 
+The wider proposed constitutional design is in [CONSTITUTION.md](CONSTITUTION.md); [AM-P001](amendments/AM-P001-tribes-and-collective-agency.md) through [AM-P005](amendments/README.md) develop its organization and safeguards. This file remains practical governance guidance, not a substitute for adoption, real representative mandates, or constituted institutions. No chambers, judiciary, or independent infrastructure fund currently exists through SRP.
+
 ## Project participation and ratification
 
 Repository collaboration is governed by the proposed [participation order](PARTICIPATION.md), [ratification procedure](RATIFICATION.md), and [repository workflow](REPOSITORY_WORKFLOW.md). These distinguish open contribution from role appointments, technical permissions, delegated approval, and merge execution. The current maintainer-led stage must not be described as independent human/AI community consent.

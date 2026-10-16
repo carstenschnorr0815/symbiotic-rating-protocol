@@ -1,8 +1,10 @@
 # Ratification and the reference version
 
-Status: proposed procedure, SRP 0.4-draft. Periods and thresholds below are initial design choices to review, not external standards or currently enabled GitHub rules.
+Status: proposed repository-development procedure, SRP 0.5-draft. Periods and thresholds below are initial design choices to review, not external standards or currently enabled GitHub rules.
 
 ## What a reference version means
+
+Read this repository procedure alongside the [manifesto](MANIFEST.md), [constitutional proposal](CONSTITUTION.md), and [amendment lifecycle](amendments/README.md). They distinguish ordinary amendments from foundational revisions. The present 30-day constitutional review class is only a repository minimum; it does not supply the separate foundational-revision process or approval by future chambers. The current validator cannot establish either. No ordinary amendment can reduce its own adoption threshold before adoption or redefine a dissenting population out of protection.
 
 `main` is the publication branch. The normative reference consists only of explicitly adopted documents and released versions, not every file present there. Clearly marked proposals, research, and alternative profiles can be published without being ratified. Each release must identify adopted scope, adoption route, applicable policy version, decision record, and remaining dissent. Never describe a repository merge, tag, star count, or bot review total as universal human/AI consent.
 
