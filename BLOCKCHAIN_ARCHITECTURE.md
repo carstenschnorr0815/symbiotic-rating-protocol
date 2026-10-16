@@ -29,3 +29,7 @@ Before implementation adopt a threat model, chain/validator governance and resou
 - [Ethereum: smart contracts](https://ethereum.org/developers/docs/smart-contracts/) and [oracles](https://ethereum.org/developers/docs/oracles/): external information requires interfaces outside contract execution; not an endorsement or chain selection.
 - [W3C Verifiable Credentials Data Model 2.0, Recommendation 15 May 2025](https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/): candidate attestation vocabulary; trusting an issuer is distinct from cryptographic verification. No implemented conformance is claimed.
 - [Douceur, The Sybil Attack, 2002](https://www.microsoft.com/en-us/research/publication/the-sybil-attack/): multiple identities can amplify one controller; certified identity alone does not solve this project's political allocation problem.
+
+## Internal deliberation and representative safeguards
+
+The proposed [mixed internal model](POLITICAL_PROCESS.md#2a-internal-democratic-organization) requires mandates/terms, member initiatives, deliberation records, relevant conflict disclosures and reviewable recall/succession. A contract's vote tally cannot establish informed deliberation, voluntary choice or absence of improper influence. Preserve private ballots where adopted, safe complaint/evidence access and continuity during disputed recall. Optional sortition requires auditable eligibility/randomness and protection against captured selection; no selection service or voting protocol is implemented here.

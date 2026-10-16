@@ -1,6 +1,6 @@
 # AM-P001 — Tribes, swarms, and delegated agency
 
-Status: proposed constitutional amendment candidate; no ratification or effective date. Draft version: 0.1. Related principles: I, II, III, IV. Proposed scope: Articles 1–2 of the constitutional design; no replacement of supplied law wording.
+Status: proposed constitutional amendment candidate; no ratification or effective date. Draft version: 0.2. Related principles: I, II, III, IV. Proposed scope: Articles 1–2 of the constitutional design; no replacement of supplied law wording.
 
 ## Proposed provisions
 
@@ -13,6 +13,14 @@ External representation requires a defined scope, selection/recognition mechanis
 Internal autonomy does not exempt avoidable serious harm or coercion from common review. Different roles and accepted obligations do not automatically constitute discrimination. Do not demand biologically impossible exit or independence; do not accept a leader's claim of collective identity as an automatic reason to erase constituent interests. Provide care/representation appropriate to incapacity or uncertain communication.
 
 Protect equal consideration across different socialization, training, cultural origins, and forms of collective organization. Protective distinctions between roles or powers require relevant evidence, a specified risk or competence requirement, necessity, proportionality, alternatives and unequal-impact assessment, accessible reasons and response, independent appeal, and expiry or reconsideration. Origin or peaceful dissent alone cannot justify exclusion. Restrictions concern implicated conduct or mandates; assess and mitigate effects on dependent members rather than attributing collective guilt. System viability protects participants' existence, agency, and capacity to contest common decisions, not incumbent power. Article 2 specifies the proposed safeguards; emergency action remains temporary and independently reviewable.
+
+## Democratic self-organization and capture safeguards
+
+Develop Article 2 through [POLITICAL_PROCESS.md section 2a](../POLITICAL_PROCESS.md#2a-internal-democratic-organization). Tribes choose direct, representative or mixed procedures within common protection. For individually decision-capable members, the proposed default combines accountable bounded representation with direct involvement, information, minority initiative and independent oversight. Fundamental tribal changes need additional direct involvement under an adopted procedure; no universal plebiscite, voting unit or identical constitution is prescribed.
+
+Direct participation needs accessible evidence, alternatives, counterarguments, adequate time and proposal/revision opportunities. Representatives need declared scope/term, reasons, relevant interest/funding disclosure, recusal, investigation and reviewable recall/succession. Temporary randomly selected advisory groups are optional and require reviewable selection/support/facilitation. Neither route is presumed immune to capture; lawful advocacy and political dissent are not misconduct. Preserve dependent and nonvoting interests and suitable arrangements for inseparable collectives.
+
+Review manipulation, concentrated influence, disclosure burden, recall abuse, permanent delegation and excessive revoting. Internal thresholds, appointments and continuity must be adopted before use. These safeguards articulate the proposed charter; any actual change to protected scope requires foundational revision rather than ordinary adoption of this candidate alone.
 
 ## Open design and review
 

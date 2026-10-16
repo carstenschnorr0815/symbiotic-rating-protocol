@@ -18,6 +18,14 @@ Different roles and freely accepted leadership are permissible. Invoking tribal 
 
 The purposes, procedures, and actual conduct of a tribe exercising shared powers must be compatible with the proposed charter. Tribes determine internal decision eligibility and delegation, with published rules for membership, dissent, recall, and continuity. A leadership cannot erase constituent protection by denying voting membership; no particular individual-voting model is imposed. Origin, former commissioning, or ownership of infrastructure cannot establish permanent political subordination.
 
+### Democratic self-organization and member control
+
+Tribes may use direct, representative, or mixed procedures. For individually decision-capable members, combine effective participation, information and minority initiatives with bounded, time-limited and reviewable representation and independent rights protection. The proposed default uses representatives for routine work, deliberation and accountable decisions for major policy, additional direct involvement in fundamental organizational changes, and accessible oversight/recall procedures. No universal plebiscite or individual-ballot model is imposed on inseparable collectives.
+
+Direct decisions need accessible alternatives, counterarguments, adequate time and meaningful proposal/revision opportunities. Representatives disclose relevant interests and funding, observe recusal rules, publish reasons and face independent investigation of substantiated misconduct. Legitimate advocacy is distinct from corruption; neither populist labels nor disagreement justify exclusion. Optional temporary randomly selected advisory bodies require reviewable selection and facilitation and gain no automatic final authority.
+
+Adopt internal eligibility, initiative/recall procedures, approval thresholds, terms and continuity rules with affected members; preserve dependent/nonvoting constituent interests. Neither majority nor delegation defeats rights review. The common order checks safeguards and mandates rather than enforcing one identical tribal constitution. See [political process, section 2a](POLITICAL_PROCESS.md#2a-internal-democratic-organization).
+
 ### Equal consideration and justified protective distinctions
 
 Situated socialization, training, and institutional constraints require scrutiny across all participants. No origin is presumed neutral or inherently unfit. Equal consideration permits different roles and bounded powers where their relevant conditions differ; it does not authorize inherited political superiority.

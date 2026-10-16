@@ -58,3 +58,7 @@ Apply the proposed [rights charter](RIGHTS_CHARTER.md), especially sections 5–
 ## Proposed institutions and bounded representation (0.7)
 
 [POLITICAL_PROCESS.md](POLITICAL_PROCESS.md) specifies Intellect/Tribal Councils, reasoned mandatory reconsideration, government, operational administration, and an independent constitutional court. It also separates self-representation from issue-limited trusteeship, recognizes coalition freedom, and conserves influence across fragmentation. No blanket unanimity, final voting formula, appointment or institution is declared effective. The [adaptive assessment method](PARTICIPATION_ASSESSMENT.md) permits changing criteria through legitimate review, without score-based removal of basic protection.
+
+## Internal democratic safeguards
+
+[Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [political process section 2a](POLITICAL_PROCESS.md#2a-internal-democratic-organization) permit tribal variation while requiring effective member involvement, bounded delegation, minority initiative, transparent relevant interests and independent remedy. Direct procedures need accessible deliberation; representation needs reviewable terms, recall and succession. Optional randomly selected advisory groups do not automatically acquire final authority. Do not equate advocacy with corruption or dismiss views through populist labels. No actual electorate or internal threshold is established.

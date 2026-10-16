@@ -34,6 +34,10 @@ Voluntary opt-in is distinct from identity, membership, mandate, and key. Third-
 
 [Adaptive assessment](PARTICIPATION_ASSESSMENT.md) investigates entropy and related physical quantities as a common research basis while separating description, attribution, and value judgments. The interdependent global organism develops revisable steering criteria through cross-form participation, shadow tests and constitutional decisions. Basic protection is never conditional on a score; political application requires explicit legitimate adoption. [Blockchain contracts](BLOCKCHAIN_ARCHITECTURE.md) are the proposed implementation direction, with scoped permissions, privacy, recovery and judicial correction; no chain or service is deployed.
 
+## Democratic self-organization within tribes
+
+Tribes may choose direct, representative or mixed procedures within shared rights. For individually decision-capable members, the proposed default combines bounded representation, direct involvement and independent control: routine work through accountable delegates, informed deliberation on major policy, additional member involvement in fundamental organizational changes, and accessible minority initiatives and reviewable recall. Representatives disclose relevant interests/funding; direct decisions require alternatives, counterarguments and adequate time. Neither route is presumed immune to capture. Collective organization and dependent constituents require appropriate safeguards rather than one imposed voting model. See [Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [political process section 2a](POLITICAL_PROCESS.md#2a-internal-democratic-organization).
+
 ## Constitutional architecture
 
 | Layer | Function | Proposed source |

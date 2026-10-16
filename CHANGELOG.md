@@ -2,6 +2,8 @@
 
 ## 0.7-draft — 16 October 2026
 
+- Refine Article 2, the rights charter and AM-P001 with mixed internal democracy: bounded representatives, direct involvement in fundamental changes, minority initiatives, reviewable recall, disclosed relevant interests/funding, accessible deliberation and independent rights control. Preserve tribal variation and appropriate collective arrangements; optional sortition creates no automatic final authority. No current electorate or voting implementation is established.
+
 - Specify issue-scoped trusteeship, relevance review, identity/opt-in separation, coalition freedom and fragmentation-neutral influence across votes, quorum, veto and appointment rights.
 - Refine the two chambers: Intellect Council majority, qualified Tribal Council confirmation and mandatory reconsideration only on concrete, qualified, reasoned requirements; no unilateral substitute or timeout consent.
 - Develop government, operational administration and independent constitutional court, without inventing appointments, thresholds, institutions or legal powers.

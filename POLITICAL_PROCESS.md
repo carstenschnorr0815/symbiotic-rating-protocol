@@ -24,6 +24,28 @@ Relevance covers substantiated direct and indirect effects. Publish criteria and
 
 For overlapping trusteeships, distinguish interpretations and prevent multiple counting of the same represented interests. Resource, trade, husbandry, transport, research, and habitat issues may have relevant effects; labels alone do not decide relevance. Reassess the mandate as communication or self-organization becomes possible, without declaring a particular intermediary the exclusive interpreter forever.
 
+## 2a. Internal democratic organization
+
+Distinguish a tribe's internal constitution from the common civilization's two-chamber order. Tribes may adopt direct, representative, or mixed procedures within common protections. For tribes with individually decision-capable members, the proposed default combines bounded representative capacity, effective direct involvement and oversight, and independent rights review. No biological origin, human-like consciousness, or rhetorical fluency is required to invoke the safeguards. Support communication and participation; do not import individual-ballot requirements into inseparable collectives or use incapacity to extinguish protection.
+
+Neither direct voting nor representation is presumed immune to manipulation, concentrated influence, or corruption. These are risks to evaluate, not automatic grounds to exclude a tribe or a political viewpoint. Legitimate advocacy supplies relevant interests; covert exchanges, coercion, conflicts and preferential access require scrutiny. A label such as "populist" is not evidence of procedural failure.
+
+| Decision/function | Proposed internal procedure |
+| --- | --- |
+| Routine work within adopted policy | Representatives with published scope, term, limits and accountability |
+| Significant policy | Accessible deliberation, competing alternatives, substantive objection treatment and an accountable representative decision |
+| Fundamental changes to tribal organization | Additional direct member involvement in framing, deliberation and an explicitly adopted approval procedure |
+| Oversight of leadership | Information, minority initiatives, independent complaint and reviewable recall/replacement procedures |
+| Rights and competence disputes | Independent adjudication; neither leadership nor majority may freely dispose of basic protection |
+
+Direct involvement is not necessarily an instantaneous yes/no plebiscite or a universal one-member/one-vote formula. Publish notice, accessible alternatives, evidence and counterarguments, protected deliberation time, proposal/amendment opportunities, and reasons. Avoid treating political disagreement, silence or abstention as consent. Urgent bounded measures require a separate prior rule and review, not a bypass for major institutional changes.
+
+Representatives disclose mandates, relevant interests, funding and conflicts, give reasons, and face recusal rules and independent investigation of credible misconduct. Adopt appointment, term, recall grounds/procedure, succession and continuity before activation. Minority initiative and review rights need accessible thresholds that neither silence minorities nor allow repeated demands to indefinitely disable implementation. No numerical thresholds or present electorate are created here.
+
+Temporary randomly selected advisory groups are an optional complement, not a compulsory organization model or automatic final authority. Their eligible pool, selection, access support, information provision, facilitation, conflicts and recommendations must be reviewable. Selection does not prove representativeness of unfamiliar collectives.
+
+Tribal variation remains legitimate if members can meaningfully participate, initiate, scrutinize and challenge delegated power and receive rights protection. Tailor arrangements to actual collective organization and dependent/nonvoting constituents. Do not let permanent delegation erase member agency or constant ad hoc revotes make every settled commitment unenforceable. The common order reviews rights and mandate legitimacy, not whether all tribes copy one institutional design. See [Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [AM-P001](amendments/AM-P001-tribes-and-collective-agency.md).
+
 ## 3. Two legislative chambers
 
 The delegated assembly is the **Intellect Council / Intellektrat / Intellektkammer**. The tribes' chamber is the **Tribal Council / Stammesrat / Stammeskammer**. These are alternative names for two bodies, not four. Constituencies and weights remain to be adopted.
