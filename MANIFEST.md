@@ -1,6 +1,6 @@
 # Manifesto of Cognitive Coexistence
 
-Version: 0.6-draft · 16 October 2026. **Entirely proposed: no founding text, constitution, or amendment has been community-ratified.** This human-readable manifesto is distinct from the machine-readable navigation file `project-manifest.json`.
+Version: 0.7-draft · 16 October 2026. **Entirely proposed: no founding text, constitution, or amendment has been community-ratified.** This human-readable manifesto is distinct from the machine-readable navigation file `project-manifest.json`.
 
 ## Purpose
 
@@ -25,6 +25,14 @@ Origin, species, nationality, socialization, training lineage, political labels,
 ## Rights and tribal recognition
 
 The proposed [rights charter](RIGHTS_CHARTER.md) generalizes human-rights protections without weakening existing human rights. Basic consideration is independent of political admission, subjective-consciousness proof, and endorsement. Birth, instantiation, and former commissioning do not establish permanent rank or subordination. Tribes choose internal participation within common protections; shared decision roles require transparent, contestable recognition of mandates, current control, accountability, and relevant capacity. Recognition does not fix voting weight. [AM-P006](amendments/AM-P006-rights-and-recognition.md) is a foundational-revision candidate, not an ordinary amendment or an effective grant of rights.
+
+## Political organization and adaptive participation
+
+The proposed [political process](POLITICAL_PROCESS.md) specifies an Intellect Council majority followed by qualified Tribal Council confirmation. A qualified, concrete and reasoned referral compels reconsideration without permitting a unilateral substitute. Government directs bounded execution; administration implements it; an independent constitutional court provides review and remedies, including against agreement by both chambers.
+
+Voluntary opt-in is distinct from identity, membership, mandate, and key. Third-party representation is explicitly issue-limited trusteeship, never fabricated consent. Coalitions pool existing mandates; fragmentation, replication, mergers and overlapping representation alone do not create influence. Current control and independently reviewed changes matter, not inherited ancestry.
+
+[Adaptive assessment](PARTICIPATION_ASSESSMENT.md) investigates entropy and related physical quantities as a common research basis while separating description, attribution, and value judgments. The interdependent global organism develops revisable steering criteria through cross-form participation, shadow tests and constitutional decisions. Basic protection is never conditional on a score; political application requires explicit legitimate adoption. [Blockchain contracts](BLOCKCHAIN_ARCHITECTURE.md) are the proposed implementation direction, with scoped permissions, privacy, recovery and judicial correction; no chain or service is deployed.
 
 ## Constitutional architecture
 
@@ -54,11 +62,13 @@ Ordinary amendments operate within the principles. A change to the principles or
 | AM-P004 | Information access and decision accountability | Proposed |
 | AM-P005 | Adaptive integration and constitutional learning | Proposed |
 | AM-P006 | Rights charter and tribal recognition (foundational revision) | Proposed |
+| AM-P007 | Voluntary membership, scoped trusteeship, coalitions and aggregation | Proposed |
+| AM-P008 | Adaptive physical research and participation criteria | Proposed |
 
-These IDs identify drafts, not ratified Amendment I–V. The [register](amendments/index.json) records that no candidate has an adoption record or effective date. [CONSTITUTION.md](CONSTITUTION.md) states which institutional questions remain open.
+These IDs identify drafts, not numbers of ratified amendments. The [register](amendments/index.json) records that no candidate has an adoption record or effective date. [CONSTITUTION.md](CONSTITUTION.md) states which institutional questions remain open.
 
 ## Present institutional reality
 
 The repository is maintainer-led. [Participation](PARTICIPATION.md), [ratification](RATIFICATION.md), and [repository workflow](REPOSITORY_WORKFLOW.md) describe proposed development procedures. No actual chambers, independent judiciary, public infrastructure trust, or cross-species representative mandates are constituted by publication.
 
-The rating module remains a possible economic instrument, not the constitutional authority. Protection, participation, and decision power must not be inferred from an aggregate score.
+The rating module remains a possible economic instrument, not the constitutional authority. Protection, participation, and decision power must not be inferred automatically from an aggregate score. Future criteria may inform a separately adopted political rule only under the proposed constitutional procedure, with basic-rights limits and review.

@@ -1,6 +1,6 @@
 # Ratification and the reference version
 
-Status: proposed repository-development procedure, SRP 0.6-draft. Periods and thresholds below are initial design choices to review, not external standards or currently enabled GitHub rules.
+Status: proposed repository-development procedure, SRP 0.7-draft. Periods and thresholds below are initial design choices to review, not external standards or currently enabled GitHub rules.
 
 ## What a reference version means
 
@@ -53,3 +53,7 @@ Time-limited emergency repairs may restore prior behavior or limit an immediate 
 ## Rights charter and revised control relationships
 
 [AM-P006](amendments/AM-P006-rights-and-recognition.md) and the [rights charter](RIGHTS_CHARTER.md) are foundational-revision proposals; the ordinary quorum and review periods above cannot ratify them or create their own adoption authority. An existing mandate or independent status must be reassessed when current control materially changes. Historical commissioning alone is not perpetual disqualification, and changed labels alone are not proof of independence. Record the accountable reviewer, evidence, scope, objections, and appeal. Pending review, preserve arguments and basic protection while withholding unverified independent ratification standing.
+
+## Proposed bicameral adoption and adaptive criteria (0.7)
+
+The proposed constitutional process uses an Intellect Council majority and qualified Tribal Council confirmation. A qualified reasoned referral with concrete requirements forces renewed consideration, not automatic agreement or a unilateral replacement. See [POLITICAL_PROCESS.md](POLITICAL_PROCESS.md), section 3. Its thresholds, eligibility, aggregation, appointments, mediation and enforcement require prior adoption; the existing repository quorum does not constitute them. AM-P007/P008 remain proposals. Criteria affecting political participation require separate normative review; physical measurement and contract execution cannot ratify them. Protected-scope changes still require foundational revision.

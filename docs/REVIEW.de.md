@@ -36,3 +36,5 @@ Die Arbeitsfassung ist ein begründeter Entwurf. Sie beansprucht keine bereits n
 Die neue [Grundrechtscharta](../RIGHTS_CHARTER.md) und AM-P006 ergänzen Herkunftsneutralität, Stammesanerkennung und unabhängige Neubewertung aktueller Kontrollverhältnisse. AM-P006 ist eine vorgeschlagene Grundrevision, keine gewöhnliche Verfahrensänderung.
 
 Die [Quellen- und Konfliktprüfung](INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md) ordnet zwanzig Bezugslinien und dreizehn Konfliktfelder ein. Ein [Diskussionsbrief](SHARING_BRIEF.de.md) fasst den Entwurf für die Weitergabe zusammen. Überschneidungen sind keine Unterstützungsbekundungen.
+
+**Politischer Ausbau, 0.7-draft:** [Verfahrensentwurf](../POLITICAL_PROCESS.md), [adaptive Bewertung](../PARTICIPATION_ASSESSMENT.md) und [Blockchain-Architektur](../BLOCKCHAIN_ARCHITECTURE.md) ergänzen die konsolidierte Entwurfsfassung. Acht Kandidaten sind registriert, keine Institution oder Metrik ist aktiviert. Frühere Literaturvergleiche bleiben eine auf 0.6 bezogene Recherche und belegen keine Wirksamkeit der neuen Verfahren.

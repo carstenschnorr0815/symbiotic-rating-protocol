@@ -14,6 +14,8 @@ The [manifesto](../MANIFEST.md) separates foundational principles, constitutiona
 | AM-P004 | [Information and accountability](AM-P004-information-and-accountability.md) | Add access and public decision-accountability duties | Proposed |
 | AM-P005 | [Adaptive integration](AM-P005-adaptive-integration.md) | Add admission-triggered review and revisable categories | Proposed |
 | AM-P006 | [Rights and recognition](AM-P006-rights-and-recognition.md) | Foundational-revision candidate: rights charter and role recognition | Proposed |
+| AM-P007 | [Membership, mandates and aggregation](AM-P007-membership-mandates-and-aggregation.md) | Opt-in, trusteeship, coalition freedom and fragmentation-neutral influence | Proposed |
+| AM-P008 | [Adaptive participation assessment](AM-P008-adaptive-participation-assessment.md) | Evolving physical research and legitimate adoption of criteria | Proposed |
 
 [index.json](index.json) is the machine-readable register. Its schema and validator check record consistency, not adoption legitimacy or constitutional compatibility.
 

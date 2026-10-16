@@ -1,6 +1,6 @@
 # Forks, branches, review, and merges
 
-Status: proposed repository procedure, SRP 0.6-draft. No remote rulesets, write permissions, integrations, or scheduled jobs are enabled by this document. Existing GitHub administration remains with the maintainer.
+Status: proposed repository procedure, SRP 0.7-draft. No remote rulesets, write permissions, integrations, or scheduled jobs are enabled by this document. Existing GitHub administration remains with the maintainer.
 
 Amendment proposals have stable IDs and separate status in [amendments/index.json](amendments/index.json). Branch = working text, PR = review, adopted decision = normative authority within its scope. A merge cannot replace ratification, and even an accepted repository proposal does not constitute nonexistent legislative chambers.
 

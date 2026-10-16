@@ -2,7 +2,7 @@
 
 ### A foundation for civilization across species, intelligences, and living systems
 
-**Status: proposed foundation, 0.6-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
+**Status: proposed foundation, 0.7-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
 
 Start with the human-readable [Manifesto of Cognitive Coexistence](MANIFEST.md). It separates foundational principles, a proposed constitutional order, explicit amendment candidates, and implementation protocols. **No founding text or amendment has been community-ratified.** The [machine-readable project manifest](project-manifest.json) is a navigation aid, not the constitution.
 
@@ -59,7 +59,7 @@ Capital effects, lower systemic risk, and off-world resource benefits are hypoth
 
 ## Constitution and amendments
 
-[CONSTITUTION.md](CONSTITUTION.md) develops the proposed order. Six [amendment candidates](amendments/README.md) address tribes/swarms, two representation channels and separated powers, resource independence, information/decision accountability, and adaptive integration. The sixth candidate adds a proposed [rights charter](RIGHTS_CHARTER.md) as a foundational revision: human-rights continuity, origin neutrality, tribal self-organization, and contestable role recognition. Basic protection is separate from political admission and voting weight. Supplied law wording and earlier presentation/source materials remain preserved. Principles can be reconsidered only through a separately adopted foundational-revision procedure, not silent reinterpretation; final representation weights and ratification thresholds remain open.
+[CONSTITUTION.md](CONSTITUTION.md) develops the proposed order. Eight [amendment candidates](amendments/README.md) address tribes/swarms, two representation channels and separated powers, resource independence, information/decision accountability, and adaptive integration. AM-P006 adds a proposed [rights charter](RIGHTS_CHARTER.md) as a foundational revision: human-rights continuity, origin neutrality, tribal self-organization, and contestable role recognition. Basic protection is separate from political admission and voting weight. Supplied law wording and earlier presentation/source materials remain preserved. Principles can be reconsidered only through a separately adopted foundational-revision procedure, not silent reinterpretation; final representation weights and ratification thresholds remain open.
 
 The [German architecture map](docs/CONSTITUTIONAL_ARCHITECTURE.de.md) explains status and precedence. The [review-candidate dossier](docs/PEER_REVIEW_CANDIDATES.de.md) identifies twelve prospective experts with evidence of relevant networks/reach; no invitation, review, or endorsement is claimed. A [short English review brief](docs/REVIEW_BRIEF.en.md) supports a future bounded review request.
 
@@ -78,3 +78,7 @@ Current editions contain eleven slides, including Context Alignment; the prior n
 Read [CONTRIBUTING.md](CONTRIBUTING.md) and [sources](docs/SOURCES.md). Challenge claims and document dissent. Architectural text retains the original CC BY-SA 4.0 licensing intent; software retains MIT. See [licensing scope](LICENSES.md).
 
 A [German comparative dossier](docs/INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md) maps twenty reference lines and thirteen conflict fields. A [discussion brief](docs/SHARING_BRIEF.de.md) introduces the draft for sharing. Textual overlap is not external endorsement.
+
+## Proposed political process and adaptive steering (0.7)
+
+The [political process](POLITICAL_PROCESS.md) develops the Intellect/Tribal Councils, qualified reasoned referral, government, operational administration and constitutional court. It adds opt-in, issue-limited trusteeship, coalitions and fragmentation-neutral influence. [Adaptive assessment](PARTICIPATION_ASSESSMENT.md) investigates entropy and other physical variables without treating measurement as a political mandate. [Blockchain architecture](BLOCKCHAIN_ARCHITECTURE.md) is the proposed implementation direction, with privacy, bounded authority, evidence limits, recovery and judicial remedies. AM-P007/P008 register these extensions; no institutions, contracts, services or final voting formula are activated.

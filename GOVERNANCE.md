@@ -54,3 +54,7 @@ A first pilot could use three-month reviews, an incident channel, and immediate 
 ## Rights-compatible tribal recognition
 
 Apply the proposed [rights charter](RIGHTS_CHARTER.md), especially sections 5–8, to tribal purposes, internal procedures, actual conduct, recognition, and sanctions. Basic protection and access to reasoned objection precede political admission. Recognition assesses present mandates, control, accountability, and supported role capacity; it is neither a worth assessment nor a voting-weight formula. Original commissioners and incumbent tribes cannot be sole unreviewable judges. Revisit changed control without treating ancestry as perpetual dependency. No operational recognition body is established here.
+
+## Proposed institutions and bounded representation (0.7)
+
+[POLITICAL_PROCESS.md](POLITICAL_PROCESS.md) specifies Intellect/Tribal Councils, reasoned mandatory reconsideration, government, operational administration, and an independent constitutional court. It also separates self-representation from issue-limited trusteeship, recognizes coalition freedom, and conserves influence across fragmentation. No blanket unanimity, final voting formula, appointment or institution is declared effective. The [adaptive assessment method](PARTICIPATION_ASSESSMENT.md) permits changing criteria through legitimate review, without score-based removal of basic protection.

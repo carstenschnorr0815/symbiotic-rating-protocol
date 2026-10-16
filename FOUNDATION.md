@@ -1,6 +1,6 @@
 # The Four Laws of Cognitive Symbiosis
 
-Status: proposed foundation, 0.6-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
+Status: proposed foundation, 0.7-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
 
 This is the foundational-principles layer of the [manifesto](MANIFEST.md). [CONSTITUTION.md](CONSTITUTION.md) and the [amendment candidates](amendments/README.md) develop institutional applications separately. No adoption is inferred from publication; changes to these principles require a distinct foundational-revision process rather than an ordinary amendment.
 
@@ -121,3 +121,7 @@ The project claims no final completeness. It commits to accountable revision.
 ## Proposed rights articulation
 
 The [rights charter](RIGHTS_CHARTER.md) develops these principles without changing the supplied laws. It preserves existing human protections, separates basic consideration from political mandates, and rejects birth, instantiation, former commissioning, or consciousness proof as automatic status gates. Different interests and ecological functions require appropriate protections rather than fabricated personhood. AM-P006 treats this scope articulation as a foundational-revision candidate requiring separate legitimate adoption.
+
+## Adaptive physical inquiry and plural institutions (0.7)
+
+The author's entropy proposal seeks a measurable, origin-neutral physical basis for interactions. [PARTICIPATION_ASSESSMENT.md](PARTICIPATION_ASSESSMENT.md) keeps physical description, causal attribution and normative judgment distinct and allows steering criteria to evolve through cross-form review. The global organism denotes interdependence, not a superior unified mind or authority. Neither a physical quantity nor a rating determines basic worth. Institutions and blockchain execution in the proposed political process remain constrained by agency, humility, precaution and explicit legitimacy.

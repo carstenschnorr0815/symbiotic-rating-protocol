@@ -1,6 +1,6 @@
 # SRP: Diskussionsbrief zu Bezugslinien und offenen Konflikten
 
-Stand: 16. Oktober 2026, 0.6-draft. Philosophischer und institutioneller Entwurf, keine verabschiedete Verfassung. [Manifest](../MANIFEST.md), [vorgeschlagene Grundrechtscharta](../RIGHTS_CHARTER.md), [ausführliche Quellen- und Konfliktprüfung](INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md).
+Stand: 16. Oktober 2026, 0.7-draft. Philosophischer und institutioneller Entwurf, keine verabschiedete Verfassung. [Manifest](../MANIFEST.md), [vorgeschlagene Grundrechtscharta](../RIGHTS_CHARTER.md), [ausführliche Quellen- und Konfliktprüfung](INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md).
 
 ## Anliegen
 
@@ -28,3 +28,7 @@ Das sind inhaltliche Überschneidungen, keine Unterstützungsbekundungen für SR
 5. Wie werden Ressourcen begrenzt, ohne politische Abhängigkeit herzustellen oder biologische Lebensgrundlagen zu verdrängen?
 
 Erbeten sind Gegenbeispiele, Begriffsverbesserungen und institutionelle Prüfungen. Zustimmung zu den Grundprinzipien ist keine Voraussetzung, um den Entwurf zu kritisieren. Es gibt noch keine ratifizierten Kammern, allgemeinen KI-Mandate oder abgeschlossene Lösung der Repräsentationsfrage. Fachliche Mitwirkung, Zustimmung und politische Legitimation werden getrennt dokumentiert.
+
+## Politischer Ausbau in 0.7
+
+Der [Verfahrensentwurf](../POLITICAL_PROCESS.md) verbindet thematische Treuhandvertretung, Intellektrat und Stammesrat, begründete Rückverweisung, Regierung, Verwaltung und Verfassungsgericht. Freiwilliger Beitritt und politische Koalitionen bleiben von Identitätsnachweisen und Mandaten getrennt. Stammesaufspaltung vermehrt keine Repräsentationsrechte. [Adaptive Kriterien](../PARTICIPATION_ASSESSMENT.md) können mit Erkenntnissen und Entwicklungsbedingungen wachsen; Entropie ist ein physikalischer Forschungsansatz, keine fertige politische Formel. Die [Blockchain-Architektur](../BLOCKCHAIN_ARCHITECTURE.md) ist vorgeschlagen, nicht implementiert.

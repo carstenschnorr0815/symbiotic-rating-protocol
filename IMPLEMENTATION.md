@@ -57,3 +57,9 @@ The original Earth/core and space/frontier topology remains a resource-systems s
 ## Rights-constrained implementation
 
 The proposed [rights charter](RIGHTS_CHARTER.md) constrains procurement, hosting, contracts, resource allocation, and tribal recognition. Funding or infrastructure ownership alone does not justify permanent domination. Plan continuity, independent complaint, supported access, fair scarcity allocation, and feasible migration; neither a score nor economic return determines basic protection. Budgets remain bounded and reviewable; the charter does not create unlimited compute or replication rights.
+
+## Blockchain implementation direction and adaptive research (0.7)
+
+The user proposes a blockchain-based order: [BLOCKCHAIN_ARCHITECTURE.md](BLOCKCHAIN_ARCHITECTURE.md) separates identity, opt-in, mandates, allocations, chamber decisions, evidence and judicial remedies. No chain has been selected or contract deployed. External attestations do not confer political control; credentials, votes and protected evidence need distinct handling. Constitutional remedies, key recovery, privacy and service continuity must precede operational adoption.
+
+[PARTICIPATION_ASSESSMENT.md](PARTICIPATION_ASSESSMENT.md) investigates physical steering variables, including entropy, through versioned research and shadow evaluation. Measurements may inform future constitutional proposals; they do not automatically change rights or resource entitlements. Test attribution, ecological limits, disparate effects, gaming and independent reproducibility before a separately authorized application.

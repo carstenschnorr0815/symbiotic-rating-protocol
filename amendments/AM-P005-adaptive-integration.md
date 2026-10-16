@@ -21,3 +21,7 @@ Review on new forms, serious interpretation failures, or evidence that provision
 ## Rights-compatible admission
 
 Under proposed [AM-P006](AM-P006-rights-and-recognition.md), assess tribal recognition through verifiable continuity, mandates, current control, accountability, shared-rights compatibility, and supported task capacity. Give reasons, response, independent appeal, review dates, and a route to contest inherited criteria. Basic protection is not conditional on recognition; recognition is not a voting-weight decision. Distinguish internal eligibility from common political authority and permit reassessment after genuine changes of control. AM-P005 alone does not ratify the proposed charter.
+
+## Criteria and institutional learning (0.7)
+
+Read [AM-P008](AM-P008-adaptive-participation-assessment.md) for evolving physical research and participation criteria, and [AM-P007](AM-P007-membership-mandates-and-aggregation.md) for entry, trusteeship and fragmentation neutrality. Basic protection precedes recognition. New criteria require supported cross-form challenge, shadow testing and explicit constitutional adoption; no scalar or changed technical policy can silently redistribute political powers.

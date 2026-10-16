@@ -1,6 +1,6 @@
 # Proposed charter of rights across forms of existence
 
-Status: **0.6-draft, entirely proposed and unratified**. This charter develops the four laws; it does not replace their supplied wording, grant legal personhood, or claim that existing human-rights instruments already apply to artificial systems. [AM-P006](amendments/AM-P006-rights-and-recognition.md) registers it as a foundational-revision candidate because it explicitly develops the protected scope. The required adoption procedure is not yet constituted.
+Status: **0.7-draft, entirely proposed and unratified**. This charter develops the four laws; it does not replace their supplied wording, grant legal personhood, or claim that existing human-rights instruments already apply to artificial systems. [AM-P006](amendments/AM-P006-rights-and-recognition.md) registers it as a foundational-revision candidate because it explicitly develops the protected scope. The required adoption procedure is not yet constituted.
 
 ## 1. Basis, scope, and interpretive limits
 
@@ -76,3 +76,7 @@ These are thematic references and proposed adaptations, not replacement translat
 | 28–30: enabling order and limits | 7–9 | Shared duties, proportionality, anti-destruction safeguards |
 
 Source: [UDHR, United Nations](https://www.un.org/en/about-us/universal-declaration-of-human-rights/); [text reproduced by Japan's Ministry of Foreign Affairs](https://www.mofa.go.jp/policy/human/univers_dec.html), consulted 16 October 2026. This charter's cross-intellect extensions are SRP proposals, not existing international law or evidence of AI consciousness. Review should include culturally diverse and affected participants; no tradition or provider is presumed neutral.
+
+## 11. Proposed procedural articulation (0.7)
+
+[POLITICAL_PROCESS.md](POLITICAL_PROCESS.md) develops voluntary/collective entry, scoped trusteeship, two-chamber review, constitutional remedies, coalition freedom, and fragmentation-neutral allocation without changing the distinction between basic protection and political office. Shared appointment does not manufacture consent; origin does not permanently determine control; strategic registration does not multiply rights. [PARTICIPATION_ASSESSMENT.md](PARTICIPATION_ASSESSMENT.md) provides a revisable research/adoption method, not a status score. Any substantive change to protected scope remains a foundational revision. Blockchain execution must remain reviewable under this charter, not redefine its beneficiaries.

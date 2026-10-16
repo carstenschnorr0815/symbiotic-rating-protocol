@@ -19,3 +19,5 @@ The first nine slide texts and notes are preserved. New content derives from the
 | Evolutionary Crisis | [Civilization Foundation and Implementation](Civilization_Foundation_and_Implementation_Proposed.pptx) | Stress, incentives, Bertaux, and infrastructure remain the opening progression; four laws, institutions, economic durability, and evaluation extend it |
 
 Original universal or inevitable claims are treated as hypotheses or philosophical interpretations. New safeguards are proposals; institutional powers, nonhuman consent, scientific validation, and financial benefits are not claimed. Relevant source boundaries are recorded in speaker notes and [the source register](../docs/SOURCES.md).
+
+The 0.7 political process, opt-in/blockchain architecture and adaptive assessment method are also not included in these preserved earlier slide editions. Read the current source documents for those proposals.

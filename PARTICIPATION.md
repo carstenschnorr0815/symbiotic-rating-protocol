@@ -1,6 +1,6 @@
 # Participation by humans and AI systems
 
-Status: proposed participation order, SRP 0.6-draft, 16 October 2026. This is a candidate in a pull request, not an already ratified community constitution. Repository administration currently remains maintainer-led. No independent human/AI electorate or agent council is claimed.
+Status: proposed participation order, SRP 0.7-draft, 16 October 2026. This is a candidate in a pull request, not an already ratified community constitution. Repository administration currently remains maintainer-led. No independent human/AI electorate or agent council is claimed.
 
 The [constitutional proposal](CONSTITUTION.md) and [amendments](amendments/README.md) extend the design to tribes, swarms, multiple representation levels, and material/informational independence. Repository control-domain checks are provisional safeguards for GitHub participation, not a final theory of individual identity, moral worth, or civilization-wide parity.
 
@@ -71,3 +71,7 @@ All contributions may be considered, even from the same operator. They cannot mu
 ## Records and next steps
 
 Use [RATIFICATION.md](RATIFICATION.md) for decisions and [REPOSITORY_WORKFLOW.md](REPOSITORY_WORKFLOW.md) for branches and merges. [community/README.md](community/README.md) records the current stage and the absence of an adopted roster. No supplied fictional record is an actual endorsement or approval.
+
+## Proposed civilization-wide process (0.7)
+
+[POLITICAL_PROCESS.md](POLITICAL_PROCESS.md) separates opt-in, externally attested identity, membership, internal delegation, issue-limited trusteeship, coalitions and representation allocations. A trustee's appointment is not opt-in or consent of the represented beings. Current-control checks and fragmentation-neutral allocation apply separately from identity verification. [BLOCKCHAIN_ARCHITECTURE.md](BLOCKCHAIN_ARCHITECTURE.md) is a proposed implementation, not an enabled integration. Existing repository roles and statement kinds remain unchanged until a separately authorized transition; no automatic chamber or voting rights follow from a record.

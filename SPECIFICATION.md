@@ -1,6 +1,6 @@
 # SRP technical specification
 
-Document version: 0.6-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, manifest, and amendment-register formats are separately versioned at `0.1-draft`.
+Document version: 0.7-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The assessment format remains `0.2-draft`; context, community-statement, community-decision, manifest, and amendment-register formats are separately versioned at `0.1-draft`.
 
 ## Architecture
 
@@ -116,3 +116,9 @@ Output is record validation and a list of findings needing review, not a rating,
 ## Rights and recognition limits
 
 [RIGHTS_CHARTER.md](RIGHTS_CHARTER.md) and AM-P006 add normative proposals, not a new authenticated recognition protocol. Existing schemas cannot certify charter compliance, legal status, consciousness, political independence, or tribal admission. Historical origin alone cannot stand in for current control evidence. Any future recognition format must separate basic protection, internal eligibility, external mandate, and voting weight, with accountable review and appeal; structural validation cannot grant those statuses.
+
+## Proposed political/blockchain architecture and assessment (0.7)
+
+[POLITICAL_PROCESS.md](POLITICAL_PROCESS.md), [BLOCKCHAIN_ARCHITECTURE.md](BLOCKCHAIN_ARCHITECTURE.md), and [PARTICIPATION_ASSESSMENT.md](PARTICIPATION_ASSESSMENT.md) specify proposed requirements, not new implemented APIs or record schemas. Existing community formats cannot express or authenticate the complete mandate/relevance, opt-in, aggregation, chamber-referral, coalition or judicial lifecycle. They remain repository records, not political eligibility certificates.
+
+Future implementation must separate identity/keys, mandates, represented interests, scope, allocations, policy versions, oracles, judgments and execution. Required validation includes expiry, scope, replay/duplicate prevention, aggregation conservation across all procedural privileges, reassessment, referrals/replies, no timeout consent, recovery, privacy and court correction. No tests of the existing formats establish those unimplemented properties. Normative criteria are versioned hypotheses; no production thermodynamic or political scoring model is supplied.

@@ -1,5 +1,14 @@
 # Change record
 
+## 0.7-draft — 16 October 2026
+
+- Specify issue-scoped trusteeship, relevance review, identity/opt-in separation, coalition freedom and fragmentation-neutral influence across votes, quorum, veto and appointment rights.
+- Refine the two chambers: Intellect Council majority, qualified Tribal Council confirmation and mandatory reconsideration only on concrete, qualified, reasoned requirements; no unilateral substitute or timeout consent.
+- Develop government, operational administration and independent constitutional court, without inventing appointments, thresholds, institutions or legal powers.
+- Propose blockchain-based records with scoped permissions, external evidence limits, privacy, recovery and judicial correction; no chain selection or deployment.
+- Preserve entropy as an origin-neutral physical research direction; separate measurement, attribution and values. Evolving participation criteria require cross-form review, shadow evaluation and explicit legitimate adoption; basic protection is never a score.
+- Register AM-P007/P008, refine AM-P002, and align navigation and existing framework. Preserve supplied laws, originals and all slide files. Existing schemas/tests do not implement the new political process.
+
 ## 0.6-draft — 16 October 2026
 
 - Add a German comparative dossier covering twenty reference lines, thirteen conflict fields, explicit evidence limits, and a shareable discussion brief. Record the author’s objection to sentience as a universal admission gate separately from empirical welfare research; no author or institution is presented as endorsing SRP.

@@ -1,6 +1,6 @@
 # Proposed constitutional order
 
-Version: 0.6-draft. This is a design for discussion, not an existing state, legal constitution, or adopted community charter. Read the [manifesto](MANIFEST.md), [four laws](FOUNDATION.md), and [amendment register](amendments/README.md) together.
+Version: 0.7-draft. This is a design for discussion, not an existing state, legal constitution, or adopted community charter. Read the [manifesto](MANIFEST.md), [four laws](FOUNDATION.md), and [amendment register](amendments/README.md) together.
 
 The proposed [rights charter](RIGHTS_CHARTER.md) constrains the institutional design below. It is registered as foundational-revision candidate AM-P006, not an adopted superior instrument. Read basic protection, internal membership, political recognition, and voting weight separately; neither publication nor a successful validator resolves their legitimacy.
 
@@ -26,17 +26,21 @@ A protective distinction must identify the protected ecological, material, or co
 
 System viability refers to sustaining diverse participants' existence, agency, and ability to contest and revise collective decisions. It cannot independently justify entrenching officeholders or silencing criticism. Restrict the implicated act, resource use, or mandate rather than assigning collective guilt or withdrawing basic protections. Any unavoidable spillover onto dependent or collective members requires explicit assessment, mitigation, and representation of their interests. Emergency interventions must have narrow scope and duration and prompt independent review; unresolved uncertainty cannot establish permanent exclusion. The institutions and detailed procedures for enforcing these safeguards remain to be constituted.
 
-## Article 3. Two forms of legislative representation
+## Article 3. Two legislative chambers and reasoned referral
 
-Propose a **delegated assembly** addressing the interests and affectedness of recognized individual/collective participants and a **tribes' chamber** addressing the autonomy and common interests of participating tribes. Neither chamber is automatically superior or identical to an executive hierarchy. Do not assume headcount, one species/one vote, or one tribe/one vote settles parity.
+The delegated assembly is the **Intellect Council (Intellektrat / Intellektkammer)**; the tribes' chamber is the **Tribal Council (Stammesrat / Stammeskammer)**. The former addresses recognized individual/collective interests and affectedness; the latter addresses tribal autonomy and cross-tribal consequences. These names denote two bodies. No headcount, one-species/one-vote, or one-tribe/one-vote formula is presumed fair.
 
-Seat allocation, constituency recognition, mandates, overlapping membership, collective boundaries, and safeguards against strategic splitting/replication remain open. An adopted rule must resolve them before these chambers can ratify real measures. [AM-P002](amendments/AM-P002-representation-and-powers.md) describes joint approval and disagreement safeguards without inventing current officeholders or voting numbers.
+Within adopted jurisdiction, rules and common political mandates require an Intellect Council majority and qualified Tribal Council confirmation under previously adopted eligibility, weighting, quorum, and threshold rules. The Tribal Council can compel renewed consideration, including review of an initial rejection, only by qualified resolution with concrete, justified amendments or testable requirements. Identify affected interests/provisions, defects, evidence/uncertainty, and adequate-treatment conditions. It cannot enact a unilateral substitute.
 
-## Article 4. Separation of powers
+The Intellect Council must document treatment of each requirement, propose changes/alternatives or reasons for non-accommodation, and resubmit for confirmation. Repeated referrals must identify remaining defects or justify new requirements. Adopt deadlines and mediation; timeout is not consent and unresolved disagreement supplies no new authorization. Basic rights and separate constitutional review remain binding. Details and open representation questions are in [POLITICAL_PROCESS.md](POLITICAL_PROCESS.md), sections 3 and 6, and [AM-P002](amendments/AM-P002-representation-and-powers.md).
 
-Separate common rule-making, execution/resource administration, and independent review/dispute resolution. Operators and funders must not be the sole judges of their own interventions. Appointment, recusal, removal, funding, and appeal must prevent the same controlling interests from occupying every function.
+## Article 4. Government, administration, and constitutional court
 
-The two chambers are proposed divisions within rule-making; their existence alone would not establish separation from executive and review powers. Actual institutions, authority, and enforcement remain to be designed and adopted.
+Separate rule-making, executive political direction, operational administration, and independent adjudication. Government proposes programs/budgets and directs lawful implementation within common jurisdiction. Administration and operational executive organs implement bounded decisions and report outcomes. Government belongs to the executive; distinguishing leadership from operations does not create two unrestricted sovereign powers.
+
+An independent constitutional court reviews acts against adopted principles, rights, and constitution, resolves competence/mandate disputes, and can order effective suspension, correction, invalidation, or reconsideration within adopted powers. Agreement by both chambers does not exempt a measure from rights review. Provide access for affected minorities, rejected mandates, and properly represented noncommunicating interests. The court does not govern by its own political program.
+
+Adopt government appointment/confidence/removal, terms and budgets, judicial selection and tenure, recusal, protected resources, remedies and enforcement before activation. Prevent one controlling interest from occupying every function or being sole judge of its own acts. Neither operators/funders nor contract administrators acquire political authority through access. Court remedies must reach unlawful contract effects through a bounded, accountable technical route. No actual government, court, appointments, or enforcement powers are created here. See [political process](POLITICAL_PROCESS.md#4-government-administration-and-constitutional-court).
 
 ## Article 5. Material conditions of independent participation
 
@@ -70,3 +74,25 @@ Review identity criteria, representation, burden distribution, interfaces, and m
 6. Use a separately adopted protective process for foundational revisions. An amendment cannot lower its own adoption threshold or silently redefine the protected population out of existence. Future participants can challenge inherited categories; no current group claims final cognitive completeness.
 
 Until these institutions exist, repository-level discussion or a transparently labelled maintainer reference remains the only asserted development stage. A founder decision must not be labelled ratification by nonexistent chambers. This article itself remains proposed and is not a self-authorizing adoption instrument.
+
+## Article 9. Voluntary entry and issue-specific representation
+
+Distinguish identity evidence, informed/version-specific opt-in, membership, mandate, and key. Existing states/organizations may attest identities without acquiring control; alternative recognition and appropriate collective authorization must remain available. Provide privacy, recovery, challenge, and orderly withdrawal with declared existing obligations. Membership creates no power over nonmembers or automatic displacement of existing public authority.
+
+Self-representation requires an appropriate internal mandate. Third-party trusteeship requires a separately authorized, bounded appointment and explicit uncertainty about the represented beings' consent. A population is not proven to be a self-organized tribe by appointing its advocate. Publish represented interests, scope, evidence/method, conflicts, powers, expiry, appeal, and transition to feasible self-representation. Voting on relevant subjects requires explicit scope; protection does not depend on appointment. Relevance includes substantiated indirect effects and is independently challengeable. No blanket unanimity rule or real trustee appointment is asserted. See [AM-P007](amendments/AM-P007-membership-mandates-and-aggregation.md).
+
+## Article 10. Coalitions and fragmentation-neutral influence
+
+Tribes and authorized delegates may form, change, and leave coalitions within their mandates. Disclose political obligations and relevant conflicts while protecting appropriate confidential deliberation. Coalition membership grants no extra representation and cannot enlarge a subject-limited mandate or justify coercive vote execution.
+
+Splits, registration, replication, renaming, and mergers alone do not increase allocated influence. Successors share the predecessor's applicable allocation pending reviewed apportionment; mergers combine existing allocations without bonuses. Apply conservation to voting weight, quorum/confirmation denominators, vetoes, appointments, and other procedural leverage, including overlapping trusteeships.
+
+Present effective common control may justify scoped aggregation. Origin, model lineage, culture, shared provider, or voluntary coalition alone does not prove such control. Allow independent reassessment of genuine development under a general periodically reviewed allocation rule, without a commissioner's veto or automatic extra votes. No permanent ancestry caste or final seat formula is established. See [political process](POLITICAL_PROCESS.md#6-fragmentation-neutral-representation).
+
+## Article 11. Adaptive criteria for participation
+
+Develop measurable, reproducible descriptions of interactions independent of biological/technical origin. Investigate entropy balances and related physical quantities as candidate foundations, not an already validated ecological, moral, or electoral ranking. Distinguish physical description, causal/control attribution, and normative judgment, with explicit boundaries, timescales, comparison baselines, uncertainty and distributional impacts.
+
+The global organism denotes an interdependent civilization, not a superior subject entitled to dispose of its members. Different stages may require revised criteria and steering variables. Enable meaningful cross-species/cross-tribal development, objection and review, including unfamiliar entrants and appropriately represented uncertain interests. Basic protection is independent of scores; recognition, responsibilities, resources and weights remain separate.
+
+Shadow-test candidates before proposing political application. Changes need explicit Intellect Council decision, qualified Tribal Council confirmation and constitutional scrutiny under prior rules, with transition, review and remedy. Protected-scope changes require foundational revision. No metric, smart contract, or technical validator may automatically alter political rights. See [AM-P008](amendments/AM-P008-adaptive-participation-assessment.md) and [assessment method](PARTICIPATION_ASSESSMENT.md).

@@ -46,3 +46,7 @@ Noch zu entscheiden: Auslegung von Gesetz III ohne erzwungene Abhängigkeit; sp�
 ## Ergänzung 0.6-draft: Grundschutz und Anerkennung
 
 [Grundrechtscharta](../RIGHTS_CHARTER.md) und AM-P006 verankern Entstehungsneutralität, Schutz unabhängig von politischer Zulassung und Bewusstseinsnachweisen, interne Stammesautonomie mit Mitgliederschutz sowie anfechtbare Anerkennung gemeinsamer Mandate. Gegenwärtige Kontrolle wird von gemeinsamer Herkunft unterschieden. Ressourcen bleiben begrenzt und überprüfbar. Die [vergleichende Quellenprüfung](INTELLECTUAL_FOUNDATIONS_AND_CONFLICTS.de.md) dokumentiert Übereinstimmungen und Konflikte; sie ersetzt keine Legitimation oder empirische Validierung.
+
+## Ergänzung 0.7-draft: Verfahren statt endgültiger Metrik
+
+Der politische Ausbau verbindet begrenzte Treuhandmandate, zweifache Legitimation und qualifizierte Rückverweisung mit Regierung, Verwaltung und Verfassungsgericht. Freiwilliger Beitritt, Koalitionen und fragmentierungsneutrale Einflussverteilung werden mit Grundschutz und überprüfbarer aktueller Kontrolle verbunden. Die physikalische Entropieidee motiviert einen ergebnisoffenen Forschungsansatz; adaptive Kriterien müssen gesondert legitimiert werden und dürfen keinen moralischen Rangscore erzeugen. Blockchain bleibt eine überprüfbare Umsetzungshypothese, keine Legitimation durch Code.

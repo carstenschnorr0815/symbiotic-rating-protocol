@@ -1,6 +1,6 @@
 # External review brief: a proposed manifesto of cognitive coexistence
 
-Version: SRP 0.6-draft, 16 October 2026. Prepared for a possible future invitation; nobody has been contacted or appointed by this brief. Record the exact reviewed commit when submitting a response.
+Version: SRP 0.7-draft, 16 October 2026. Prepared for a possible future invitation; nobody has been contacted or appointed by this brief. Record the exact reviewed commit when submitting a response.
 
 SRP explores coexistence among individual and collective intelligences and consideration of living-system functions whose cognition or interests may remain uncertain. The [manifesto](../MANIFEST.md) separates four author-supplied principles, a proposed constitutional order, explicit amendment candidates, and implementation protocols. No founding constitution or amendment has been community-ratified.
 
@@ -19,3 +19,5 @@ Written critical feedback is welcome without agreement with the principles. Indi
 The project currently remains maintainer-led. Technical validators check records, not truth, consciousness, independent consent, or constitutional legitimacy. Preserve disagreement and identify the text version to which any assessment applies. This brief does not request a public support statement or grant anyone authority to speak for a species, tribe, or all AI systems.
 
 Please review RIGHTS_CHARTER.md and AM-P006 as a foundational-revision proposal. Test the separation of basic protection, internal tribal eligibility, common-role recognition, and voting weight; origin versus current control; and the limits of sentience as a universal admission criterion. The German comparative dossier identifies prior approaches and conflicts, including the UNESCO position on AI legal personality. It claims neither external endorsement nor a completed literature review.
+
+The 0.7 extension adds POLITICAL_PROCESS.md, PARTICIPATION_ASSESSMENT.md and BLOCKCHAIN_ARCHITECTURE.md, plus proposed AM-P007/P008 and a refined AM-P002. Please challenge issue-scoped trusteeship, reasoned bicameral referral, judicial/executive independence, opt-in/identity separation, coalition freedom and fragmentation-neutral procedural influence. Assess entropy as a physical research direction and evolving criteria as separately legitimized choices, not a validated metric or automatic political allocation.

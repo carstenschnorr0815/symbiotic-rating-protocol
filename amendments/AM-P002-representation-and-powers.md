@@ -1,14 +1,14 @@
 # AM-P002 — Two representation channels and separation of powers
 
-Status: proposed constitutional amendment candidate; no ratification or effective date. Draft version: 0.1. Related principles: I, II, III, IV. Proposed scope: Articles 3–4; no current chambers or officeholders are claimed.
+Status: proposed constitutional amendment candidate; no ratification or effective date. Draft version: 0.2. Related principles: I, II, III, IV. Proposed scope: Articles 3–4; no current chambers or officeholders are claimed.
 
 ## Proposed provisions
 
-A delegated assembly addresses interests and affectedness of recognized individual/collective participants. A tribes' chamber addresses tribal autonomy and shared concerns. Neither population totals nor one-tribe/one-vote is presumed sufficient. Representation must resist dominance through replication, strategic fragmentation, exclusion, wealth, or inaccessible communication.
+Use the Intellect Council (delegated assembly / Intellektrat) and Tribal Council (Stammesrat) as two legislative channels. Common rules and scoped mandates require an Intellect Council majority and qualified Tribal Council confirmation under prior adopted eligibility, weights, quorum and thresholds. No final representation formula is presumed fair.
 
-Separate rule-making from execution/resource administration and independent review/dispute resolution. A two-chamber legislature is not itself the whole separation of powers. Define independent appointment, recusal, removal, budget protection, and appeal; no operator/funder may be sole judge of its own intervention.
+The Tribal Council can compel reconsideration, including reconsideration of rejection, only through qualified resolution with concrete justified amendments or testable requirements. Record defects, affected interests/provisions, evidence/uncertainty and adequate-treatment conditions. It cannot pass a unilateral substitute. The Intellect Council must address every requirement, revise/offer alternatives or explain non-accommodation, and resubmit for confirmation. Adopt deadlines and mediation; timeout is not consent. Renewed referrals identify unresolved defects or justify new demands.
 
-Common constitutional measures require both representation channels under previously adopted rules plus independent compatibility review. Any exception, mediation, temporary measure, or deadlock mechanism must be explicit and cannot erase basic protections. No chamber's unilateral emergency declaration grants permanent constitutional power.
+Government provides executive political direction; operational administration implements lawful bounded decisions. An independent constitutional court reviews even jointly approved measures, resolves competences/mandates, and supplies effective remedies. Protect judicial resources, selection, recusal and review from capture. Adopt appointments, confidence/removal, budgets, tenure, enforcement and technical correction powers before activation. No current officeholders or institutions are created. See [POLITICAL_PROCESS.md](../POLITICAL_PROCESS.md), sections 3–4.
 
 ## Open design and review
 

@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.1-draft",
   "project": "Symbiotic Rating Protocol",
-  "document_version": "0.6-draft",
+  "document_version": "0.7-draft",
   "status": "proposed",
   "repository": "https://github.com/carstenschnorr0815/symbiotic-rating-protocol",
   "publication_branch": "main",
@@ -20,7 +20,10 @@
     "RATIFICATION.md",
     "REPOSITORY_WORKFLOW.md",
     "GOVERNANCE.md",
-    "SPECIFICATION.md"
+    "SPECIFICATION.md",
+    "POLITICAL_PROCESS.md",
+    "PARTICIPATION_ASSESSMENT.md",
+    "BLOCKCHAIN_ARCHITECTURE.md"
   ],
   "record_schemas": {
     "assessment": "schemas/assessment.schema.json",
