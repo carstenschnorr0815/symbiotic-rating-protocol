@@ -2,6 +2,7 @@
 
 ## 0.5-draft — 16 October 2026
 
+- Extend the proposed manifesto, Article 2, and AM-P001 with situated cognition, equal consideration, and evidence-based protective distinctions; define system viability without entrenching incumbents and require proportionality, independent appeal, reconsideration, and protection against collective guilt. No new powers are ratified.
 - Separate human-readable manifesto, foundational principles, proposed constitutional order, amendment candidates, and implementation protocols.
 - Integrate tribes/swarms, two representation channels and separated powers, material independence, information/decision accountability, and adaptive integration as five unratified candidates with stable proposal IDs.
 - Distinguish ordinary amendments from separately authorized foundational revisions; preserve history, explicit scope/replacement/repeal, and the difference between merge, ratification, and effect.

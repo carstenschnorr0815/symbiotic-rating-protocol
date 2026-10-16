@@ -14,6 +14,14 @@ Tribes choose internal organization within the common protections, including mea
 
 Different roles and freely accepted leadership are permissible. Invoking tribal autonomy alone cannot justify avoidable serious harm or extinguish the agency of independently acting members. Protection must fit actual organization: no biologically impossible separation is demanded, and a claim that members are "only components" cannot automatically defeat review. Apply the four laws within and between associations.
 
+### Equal consideration and justified protective distinctions
+
+Situated socialization, training, and institutional constraints require scrutiny across all participants. No origin is presumed neutral or inherently unfit. Equal consideration permits different roles and bounded powers where their relevant conditions differ; it does not authorize inherited political superiority.
+
+A protective distinction must identify the protected ecological, material, or constitutional condition, the particular risk or competence requirement, supporting evidence and uncertainty, its causal connection to the measure, feasible alternatives, and unequal burdens. Require necessity, proportionality, accessible reasons and response, independent review and appeal, and an expiry or scheduled reconsideration. Assess conduct, effective control, and task-relevant capacity; nationality, species, cultural background, training lineage, peaceful dissent, or an ideological label alone are insufficient. Offer feasible accommodation or support before treating a remediable access barrier as incapacity.
+
+System viability refers to sustaining diverse participants' existence, agency, and ability to contest and revise collective decisions. It cannot independently justify entrenching officeholders or silencing criticism. Restrict the implicated act, resource use, or mandate rather than assigning collective guilt or withdrawing basic protections. Any unavoidable spillover onto dependent or collective members requires explicit assessment, mitigation, and representation of their interests. Emergency interventions must have narrow scope and duration and prompt independent review; unresolved uncertainty cannot establish permanent exclusion. The institutions and detailed procedures for enforcing these safeguards remain to be constituted.
+
 ## Article 3. Two forms of legislative representation
 
 Propose a **delegated assembly** addressing the interests and affectedness of recognized individual/collective participants and a **tribes' chamber** addressing the autonomy and common interests of participating tribes. Neither chamber is automatically superior or identical to an executive hierarchy. Do not assume headcount, one species/one vote, or one tribe/one vote settles parity.

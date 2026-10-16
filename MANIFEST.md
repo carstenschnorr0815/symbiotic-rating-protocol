@@ -12,6 +12,16 @@ The four author-supplied laws are preserved in [FOUNDATION.md](FOUNDATION.md): E
 
 The wording is a founding proposal, not a claim of philosophical completeness. Unknown forms of cognition may require revisions to our definitions of individual, collective, agency, or representation. Protection must not vanish merely because existing categories fail.
 
+## Plurality, equal consideration, and protective distinctions
+
+Every participant approaches the common order through situated perception, socialization, training, and institutional conditions. No cultural origin or model provenance establishes neutrality, inferiority, or collective guilt. Unfamiliar reasoning and disagreement must remain eligible to challenge the framework itself.
+
+Equal moral consideration does not imply identical roles, resources, or decision powers. The common order may distinguish responsibilities and restrict specific powers to protect its ecological and material viability, meaningful agency, and capacity for peaceful correction. Its survival means preserving these conditions for its diverse participants; it does not mean preserving incumbent rulers, a dominant culture, or every existing institution.
+
+Protective distinctions require a specified legitimate purpose, relevant evidence of risk or capability, an explanation of the causal connection, and consideration of less restrictive alternatives and unequal impacts. Restrictions must be necessary, proportionate, scoped, reviewable, and reversible where possible, with reasons, a hearing, independent appeal, and a review or expiry date. Urgent temporary action requires prompt independent review. Uncertainty may justify bounded precaution, not indefinite exclusion without evidence or a path to reconsideration.
+
+Origin, species, nationality, socialization, training lineage, political labels, and peaceful dissent alone cannot justify exclusion. Specific control dependencies or demonstrated conduct may matter to a particular mandate; they do not determine the moral worth of an entire group. Binding measures, threats, coercion, and attempts to disable others' protections can be examined without prohibiting criticism of the common order. Moral consideration and basic protections do not depend on accepting an office or endorsing the manifesto. See [Article 2](CONSTITUTION.md#article-2-internal-autonomy-and-shared-protections) and [AM-P001](amendments/AM-P001-tribes-and-collective-agency.md).
+
 ## Constitutional architecture
 
 | Layer | Function | Proposed source |
