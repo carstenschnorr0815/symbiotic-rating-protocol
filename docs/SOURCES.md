@@ -1,5 +1,9 @@
 # Sources and evidence status
 
+## Additional author source — 16 October 2026
+
+[Kontextmarker und Koexistenz von Mensch und KI — Ein Diskussionsentwurf](sources/2026-10-16-context-markers-original.de.txt), supplied by the author and preserved byte for byte. It introduces level ambiguity, dynamic/asymmetric contexts, explicit markers, model synchronization, a possible functional human–AI unit, and four coordination principles. [CONTEXT_ALIGNMENT.md](../CONTEXT_ALIGNMENT.md) separates the integration from the source wording. Evolutionary analogies, claimed communication benefits, and historical/biological generalizations are discussion hypotheses or metaphors, not independently verified findings in this revision.
+
 Reviewed 15 October 2026. Sources support specific practices, not SRP as a whole. Applications are editorial inferences, not endorsements or legal authorizations.
 
 | Source | Supports | Does not establish |

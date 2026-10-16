@@ -16,3 +16,7 @@ Function is not intentional cooperation. Sensor translation must not claim "the 
 Before a real pilot: establish authority, permissions, mandates, budget, monitoring, appeal, repair reserve, and fallback. Pre-register a period covering relevant seasonal variation. Experts must define local stop limits: essential-supply failure, ecological-limit breaches, loss of oversight, or serious unexpected harm. No universal numerical limits are invented here.
 
 Independent reviewers compare findings, missing evidence, ecological outcomes, withdrawal, operating burden, costs, and distribution. Publish baseline, comparison method, dissent, failures, and continuation/termination reasons. A better aggregate does not establish success.
+
+## Context Alignment in the pilot
+
+Distinguish `[STRATEGY]` (purpose and acceptable burdens), `[ORGANIZATION]` (authority and representation), `[ARCHITECTURE]` (system boundaries and dependencies), and `[PIPELINE]` (observations and transformations). A new optimization proposal must not silently change ecological objectives or authority. Record context changes and unresolved interpretations. An ecological representative's acknowledgement confirms only that representative's framing, not that a forest has agreed or even shares the model. These technical labels are a provisional human vocabulary, not categories imposed on the living system.

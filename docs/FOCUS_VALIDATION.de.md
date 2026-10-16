@@ -1,5 +1,11 @@
 # Validierung am Fokus des Autors
 
+## Ergänzung: Kontextmarker, 16.10.2026
+
+Der neue [Diskussionsentwurf](sources/2026-10-16-context-markers-original.de.txt) ergänzt die fehlende Koordinationsschicht zwischen Prinzipien und Zusammenarbeit. [Context Alignment](../CONTEXT_ALIGNMENT.md) verbindet Ebenenmarker, sichtbare Modellwechsel und asymmetrischen Informationszugang mit Gesetz III und IV. Gesetz II begrenzt diese Schicht: gemeinsame Modelle dürfen individuelle Perspektiven nicht verdrängen oder vollständige Offenlegung erzwingen.
+
+Die vorgeschlagene funktionale Mensch-KI-Einheit wird als mögliche Organisationsebene integriert, ohne ein gemeinsames Bewusstsein oder einen neuen politischen Souverän zu behaupten. Für andere Spezies und ökologische Funktionen bleiben Übersetzung, Gegenseitigkeit und Bestätigung ausdrücklich unsicher. Die technische Taxonomie ist ein anpassbarer Ausgangspunkt, keine universelle Ordnung aller Intellekte. Vorteile der Marker sind zu prüfen, nicht bereits nachgewiesen.
+
 Stand: 15.10.2026. Konzeptionelle Prüfung und Überarbeitungsvorschlag, keine empirische Validierung des Gesamtmodells.
 
 ## Maßstab und Ausgangsstand

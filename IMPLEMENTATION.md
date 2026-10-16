@@ -38,6 +38,8 @@ Use portable formats, multiple interpretations, manual fallback, and continuity 
 
 ## Staged development
 
+Add [Context Alignment](CONTEXT_ALIGNMENT.md) to architecture reviews, meeting records, change requests, and operational handovers. Record relevant levels, assumptions, accessible context, model versions, and disagreements. Evaluate its additional coordination cost and whether it reduces actual misunderstandings. Shared representations must remain portable, revisable, and compatible with selective disclosure; a joint functional unit does not become a new authority merely because it shares a model.
+
 1. Review principles, counterexamples, and conflicts; obtain author review of proposed safeguards.
 2. Assess archived cases independently; publish disagreement, missing data, and revisions.
 3. Run a bounded shadow pilot with required authority and participation, without autonomous control or public competitive ratings.

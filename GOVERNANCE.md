@@ -25,6 +25,8 @@ Where consent cannot be established, record `unknown` or `not_applicable` with r
 
 ## Decision process
 
+Use [Context Alignment](CONTEXT_ALIGNMENT.md) to distinguish evidential, architectural, organizational, and strategic questions before decisions. Record which framing is proposed, whose interpretation is confirmed or disputed, what information is inaccessible, and which changes remain unresolved. Agreement about the discussion level is not consent to an intervention or a transfer of authority. A representative may acknowledge their own interpretation but cannot thereby confirm an ecosystem's understanding.
+
 1. Establish competent authority, protections, essentials, and possible irreversible harms.
 2. Map affected parties/functions, representatives, gaps, and conflicts of interest.
 3. Collect observations and competing interpretations; publish access limits and protect sensitive data.

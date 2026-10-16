@@ -1,5 +1,15 @@
 # Change record
 
+## 0.3-draft — 16 October 2026
+
+- Preserve the author's context-marker discussion draft unchanged in `docs/sources/`.
+- Integrate Context Alignment as a coordination layer across philosophy, governance, implementation, specification, and the pilot; preserve all four law texts.
+- Distinguish alignment of discussion levels, agreement with conclusions, consent, and authority. Protect individual models, selective disclosure, dissent, and untranslatable perspectives.
+- Add a separate context-record format and fictional example; retain assessment-format compatibility at `0.2-draft`.
+- Add eleven-slide presentation editions with two context slides each; preserve the original and prior nine-slide editions.
+- Update the German review and focus validation. Coordination benefits remain hypotheses for evaluation.
+- Add a German placement map distinguishing foundation, law interpretation, governance, and technical safeguards, in response to the author's follow-up question.
+
 ## 0.2-draft — 15 October 2026
 
 Source: `9fef0577c102cf2dc89d37609e2d72ab98976b07`.

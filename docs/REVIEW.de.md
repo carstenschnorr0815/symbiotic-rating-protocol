@@ -4,13 +4,20 @@ Die Originale sind erhalten: beide Präsentationen unverändert im Hauptverzeich
 
 ## Empfohlene Lesereihenfolge
 
+Zur Einordnung der Ergänzungen: [Wo die Sicherungen hingehören](SAFEGUARD_PLACEMENT.de.md) verbindet Geltungsbereich, vier Gesetze, Governance, Context Alignment und technische Spezifikation.
+
+**Ergänzung vom 16.10.2026:** Zuerst [Context Alignment](../CONTEXT_ALIGNMENT.md) lesen. Dein neuer Diskussionsentwurf ist als Koordinationsschicht eingearbeitet; der [Originaltext](sources/2026-10-16-context-markers-original.de.txt) ist unverändert erhalten. Ebenenmarker, dynamische/asymmetrische Kontexte und die funktionale Mensch-KI-Einheit verbinden die Gesetze mit praktischen Verfahren. Die Erweiterung auf andere Intellekte bleibt offen für nicht übersetzbare Perspektiven.
+
 1. [Validierung an Deinem Fokus](FOCUS_VALIDATION.de.md): Kontinuität, Änderungen und Grenzen.
 2. [Foundation](../FOUNDATION.md): Deine vier Gesetze im Wortlaut, getrennt von vorgeschlagenen Auslegungen.
 3. [Governance](../GOVERNANCE.md) und [Implementation](../IMPLEMENTATION.md): politische Verfahren, Vertretung, Finanzierung und Technik.
 4. [Technische Spezifikation](../SPECIFICATION.md) und [fiktiver Pilot](../examples/watershed-pilot.md): überprüfbare Anwendung.
-5. [Präsentationen](../presentations/README.md): zwei überarbeitete Begleitfassungen mit jeweils neun Folien.
+5. [Präsentationen](../presentations/README.md): aktuelle Begleitfassungen mit jeweils elf Folien, einschließlich Context Alignment; die bisherigen Neun-Folien-Fassungen bleiben erhalten.
 
 ## Inhaltliche Entscheidungen für die nächste gemeinsame Revision
+
+- Context Alignment: Die Aussage „Gemeinsame Modelle sind wichtiger als individuelle Modelle“ ist als aufgabenbezogene Koordination ausgelegt. Individuelle Werte, vertrauliches Wissen und abweichende Modelle behalten ihren Schutz. Passt diese Auslegung?
+- Marker: Mehrere Ebenen, unbekannte Ebenen und domänenspezifische Vokabulare sind zulässig; eine Bestätigung der Ebene ersetzt keine Zustimmung zu einer Handlung.
 
 - Gesetz III: Ist die Auslegung als Offenheit ohne erzwungene Abhängigkeit passend?
 - Gesetz II: Sollen Individuen und vorübergehende Eingriffe später auch im Gesetzeswortlaut ausdrücklich ergänzt werden?

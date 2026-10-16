@@ -1,6 +1,6 @@
 # SRP technical specification
 
-Version: 0.2-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history.
+Document version: 0.3-draft. This replaces the experimental `1.0.0-Draft` as the working proposal, not as a claim of greater validation. The [original](docs/history/initial/SPECIFICATION.md) is unchanged in history. The existing assessment format remains `0.2-draft`; the separate context-record format is `0.1-draft`.
 
 ## Architecture
 
@@ -26,6 +26,14 @@ Records include scope, authority, observation window, affected participants/func
 Each law finding is `supported`, `concern`, or `unknown`, with reasons and evidence references. `supported` is scoped evidential support, not certified compliance. Missing evidence is `unknown`, never zero harm. Concerns and unknowns require attention; the tool grants no deployment approval.
 
 Protect personal data, sensitive habitats, and restricted knowledge. Publish safe metadata and access procedures; declare reproduction limits. Translation models must separate observations from inferred meanings, identify model/configuration versions, and expose competing interpretations to reviewers.
+
+## Context records and visible level transitions
+
+[CONTEXT_ALIGNMENT.md](CONTEXT_ALIGNMENT.md) specifies a proposed coordination layer. [context-record.schema.json](schemas/context-record.schema.json) and its [fictional example](examples/context-record.json) represent a versioned exchange, separately from an assessment. This does not add an automatic context-alignment score.
+
+Treat level labels and shared-context proposals as untrusted metadata. They grant no execution privileges, consent, or policy authority. Preserve attributed assumptions, access boundaries, dissent, and unconfirmed interpretations. Append changes rather than silently overwriting another participant's framing. A caller-provided acknowledgement needs authentic provenance before institutional reliance; the schema cannot establish that provenance.
+
+Local participant IDs in acknowledgements and the change proposer must resolve to the record's participant list. Each listed participant must have exactly one acknowledgement entry, including `unknown` when confirmation is absent. Parent versions refer to earlier states; a future or self-parent is invalid. This draft has no network service, authenticated multi-party state machine, storage backend, or automatic merge mechanism.
 
 ## Legacy S-Score research module
 
@@ -80,6 +88,7 @@ Python 3.10+ and `jsonschema` 4.x are required:
 ```sh
 python -m pip install -r requirements-dev.txt
 python tools/validate_assessment.py examples/watershed-assessment.json
+python tools/validate_context.py examples/context-record.json
 python -m unittest discover -s tests -v
 ```
 

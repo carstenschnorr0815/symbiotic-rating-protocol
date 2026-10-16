@@ -2,7 +2,7 @@
 
 ### A foundation for civilization across species, intelligences, and living systems
 
-**Status: proposed foundation, 0.2-draft · 15 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
+**Status: proposed foundation, 0.3-draft · 16 October 2026.** Principles and institutional designs are proposals. Metrics are research instruments, not validated ratings or guarantees of alignment.
 
 SRP develops a philosophical, sociopolitical, economic, and technical foundation for a civilization in which diverse intelligences can coexist, form symbioses, and choose collaborations. It also recognizes the life-supporting functions established by organisms and ecosystems, including where cognition, experience, or communication remains uncertain.
 
@@ -33,9 +33,14 @@ Chosen collaboration requires evidence of choice appropriate to the participant.
 
 ## Working architecture
 
+**Context Alignment** is a proposed coordination layer: participants make the relevant discussion level, assumptions, accessible evidence, and model changes explicit. Sharing information alone does not establish compatible interpretations. Context evolves during the exchange and may remain asymmetric or only partly shared. See [CONTEXT_ALIGNMENT.md](CONTEXT_ALIGNMENT.md) and the [unaltered German source draft](docs/sources/2026-10-16-context-markers-original.de.txt).
+
+Compatible representations can support a functional joint system without requiring a common consciousness, identical values, or complete mutual intelligibility. Joint models remain bounded and contestable; individual models, privacy, refusal, and untranslatable meanings remain protected.
+
 | Layer | Role | Document |
 | --- | --- | --- |
 | Philosophy | Scope, laws, distinctions, open questions | [Foundation](FOUNDATION.md) |
+| Coordination | Context markers, partial model alignment, visible level changes | [Context Alignment](CONTEXT_ALIGNMENT.md) |
 | Society and politics | Representation, authority, contestability, conflicts | [Governance](GOVERNANCE.md) |
 | Economics | Procurement, contracts, stewardship, experimental ratings | [Implementation](IMPLEMENTATION.md) |
 | Technology | Evidence records, four-law review, measurement requirements | [Specification](SPECIFICATION.md) |
@@ -52,5 +57,7 @@ Capital effects, lower systemic risk, and off-world resource benefits are hypoth
 ## Presentations and contributions
 
 Originals remain available: [Asimov 2.0](Asimov_2_0_The_Symbiotic_Blueprint.pptx) and [Evolutionary Crisis](The_Evolutionary_Crisis_Deck.pptx). Revised companion editions in [presentations](presentations/) develop the argument in the respective source styles. See [CHANGELOG.md](CHANGELOG.md).
+
+Current editions contain eleven slides, including Context Alignment; the prior nine-slide editions remain available. The [German safeguard map](docs/SAFEGUARD_PLACEMENT.de.md) explains where precaution, voluntary exchange, and conflict procedures belong.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) and [sources](docs/SOURCES.md). Challenge claims and document dissent. Architectural text retains the original CC BY-SA 4.0 licensing intent; software retains MIT. See [licensing scope](LICENSES.md).

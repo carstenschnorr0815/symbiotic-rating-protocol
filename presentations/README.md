@@ -1,6 +1,15 @@
 # Revised presentation companions
 
-Both source PPTX files remain unchanged at the repository root. These proposed nine-slide companions retain the respective dark/Calibri and light/Arial styles and source canvas dimensions. Text remains editable. Full supplied laws and proposed interpretations are in [FOUNDATION.md](../FOUNDATION.md); slides summarize rather than replace that text.
+Both source PPTX files remain unchanged at the repository root. The prior nine-slide companions below also remain unchanged. Current editions add two Context Alignment slides, retaining the respective dark/Calibri and light/Arial styles and source canvas dimensions. Text remains editable. Full supplied laws and proposed interpretations are in [FOUNDATION.md](../FOUNDATION.md); slides summarize rather than replace that text.
+
+## Current editions — 0.3-draft
+
+- [Cognitive Symbiosis with Context Alignment](Cognitive_Symbiosis_Blueprint_Proposed_With_Context_Alignment.pptx): eleven slides; adds compatible representations and safeguards for agency and uncertain understanding.
+- [Civilization Foundation with Context Alignment](Civilization_Foundation_and_Implementation_Proposed_With_Context_Alignment.pptx): eleven slides; adds context markers in existing workflows and the placement of safeguards across the four laws.
+
+The first nine slide texts and notes are preserved. New content derives from the author's [context-marker draft](../docs/sources/2026-10-16-context-markers-original.de.txt) and the proposed integration in [CONTEXT_ALIGNMENT.md](../CONTEXT_ALIGNMENT.md).
+
+## Prior editions — 0.2-draft
 
 | Original | Revised companion | Continuity |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 # The Four Laws of Cognitive Symbiosis
 
-Status: proposed foundation, 0.2-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
+Status: proposed foundation, 0.3-draft. The author supplied the four laws. The preamble, interpretations, safeguards, and procedures are editorial proposals for review, not previously adopted rules or established scientific results.
 
 ## Purpose and scope
 
@@ -67,6 +67,16 @@ Biological symbiosis is not automatically mutual benefit or consent. Deliberate 
 Absence of understanding is not evidence of absence of cognition, experience, or morally relevant interests. Complexity alone is not evidence of consciousness. Record competing explanations and revise conclusions.
 
 For serious or irreversible potential harm, prefer proportionate precautions, reversible inquiry, and independent observation. Unknown interests trigger investigation and protective constraints, not fabricated preferences or an automatic ban on every intervention.
+
+## Context Alignment as a coordination layer
+
+The author's [context-marker discussion draft](docs/sources/2026-10-16-context-markers-original.de.txt) proposes that apparent disagreement can arise from incompatible discussion levels and asymmetric, evolving contexts. [CONTEXT_ALIGNMENT.md](CONTEXT_ALIGNMENT.md) develops this as a practical expression of semantic interdependence and cognitive humility, constrained by preserved agency.
+
+A functional collaboration can coordinate through compatible representations, shared state descriptions, and protocols for changing levels. It need not possess a shared consciousness. Alignment means making enough of the participants' models mutually interpretable for a stated purpose; it does not require the same worldview or exhaust the meanings of any participant.
+
+The discussion draft's priority for shared models is interpreted here as priority for a usable coordination interface within a voluntary task. It must not authorize a collective model to replace individual interpretation, suppress dissent, or demand disclosure of private cognition. Likewise, explicit markers are proposed where ambiguity matters, not a universal requirement that every utterance have exactly one label.
+
+For organisms or ecosystems whose communication is not understood, a human-authored representation remains an interpretation. It cannot establish their agreement, willingness, or shared conceptual state. The wider civilization can protect functions and uncertain interests while reciprocal understanding remains unresolved.
 
 ## Philosophical rationale and objections
 
